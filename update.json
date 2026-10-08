@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.6.6",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.6/controley.apk",
-  "notes": "Controle mais curto, apps com nome e ícone, legenda e áudio em Mais."
+  "versionCode": 15,
+  "versionName": "0.6.7",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.7/controley.apk",
+  "notes": "Idioma: português do Brasil, inglês e espanhol, em Configurações."
 }
