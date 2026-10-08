@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "0.6.8",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.8/controley.apk",
-  "notes": "Cores com um papel cada: verde para a ação, borda para o que está ligado, rosa no desligar."
+  "versionCode": 17,
+  "versionName": "0.6.9",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.9/controley.apk",
+  "notes": "A aba Apps mostra só os aplicativos da tela inicial da TV."
 }
