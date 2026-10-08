@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "0.6.7",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.7/controley.apk",
-  "notes": "Idioma: português do Brasil, inglês e espanhol, em Configurações."
+  "versionCode": 16,
+  "versionName": "0.6.8",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.8/controley.apk",
+  "notes": "Cores com um papel cada: verde para a ação, borda para o que está ligado, rosa no desligar."
 }
