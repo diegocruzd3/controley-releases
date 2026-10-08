@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.6.4",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.4/controley.apk",
-  "notes": "Ajustes de tela: touchpad sem botões repetidos, teclas de cor, lista de apps com nomes inteiros e teclado com um só botão verde."
+  "versionCode": 13,
+  "versionName": "0.6.5",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.5/controley.apk",
+  "notes": "Volume com nível, apps favoritos, legenda, áudio e desligamento programado."
 }
