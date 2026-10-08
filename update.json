@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.6.1",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.1/controley.apk",
-  "notes": "Aviso de atualização no fim da aba Controle. Em tela deitada o controle continua visível. A aba começa por navegação e volume."
+  "versionCode": 10,
+  "versionName": "0.6.2",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.2/controley.apk",
+  "notes": "Corrige as setas da aba Controle, que ficavam escondidas e sem responder ao toque."
 }
