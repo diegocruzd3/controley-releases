@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.6.3",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.3/controley.apk",
-  "notes": "A Limpeza foi para a aba Mais, com a análise salva no celular. O Teclado abre direto no campo de texto."
+  "versionCode": 12,
+  "versionName": "0.6.4",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.4/controley.apk",
+  "notes": "Ajustes de tela: touchpad sem botões repetidos, teclas de cor, lista de apps com nomes inteiros e teclado com um só botão verde."
 }
