@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "0.6.11",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.11/controley.apk",
-  "notes": "Paleta nova: grafite neutro e azul claro, no lugar do verde-escuro."
+  "versionCode": 20,
+  "versionName": "0.6.12",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.12/controley.apk",
+  "notes": "O Controle deixa de ser uma ficha: setas maiores, volume em uma linha, sem títulos de seção."
 }
