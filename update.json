@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.0/controley.apk",
-  "notes": "Nova aba Limpeza: analisa os apps da TV e aponta os que podem ser removidos, os com nome repetido e os sem uso recente."
+  "versionCode": 9,
+  "versionName": "0.6.1",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.1/controley.apk",
+  "notes": "Aviso de atualização no fim da aba Controle. Em tela deitada o controle continua visível. A aba começa por navegação e volume."
 }
