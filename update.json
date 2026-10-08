@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.5.0/controley.apk",
-  "notes": "Novo nome: Controley. Conexão com um toque: o app procura as TVs da rede sozinho, reencontra a TV se o endereço mudar e deixa o IP como última opção. Atualização automática pelo próprio app."
+  "versionCode": 8,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.0/controley.apk",
+  "notes": "Nova aba Limpeza: analisa os apps da TV e aponta os que podem ser removidos, os com nome repetido e os sem uso recente."
 }
