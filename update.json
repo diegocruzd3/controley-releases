@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.6.10",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.10/controley.apk",
-  "notes": "Controle mais alinhado: modos da mesma altura, nomes dos apps em duas linhas, aviso de conexão some quando a TV já está pronta."
+  "versionCode": 19,
+  "versionName": "0.6.11",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.11/controley.apk",
+  "notes": "Paleta nova: grafite neutro e azul claro, no lugar do verde-escuro."
 }
