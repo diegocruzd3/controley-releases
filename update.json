@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "0.6.15",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.6.15/controley.apk",
-  "notes": "O teclado só envia quando a TV avisa que um campo de texto está aberto."
+  "versionCode": 24,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.7.0/controley.apk",
+  "notes": "Reconecta quando o Wi-Fi volta e troca entre TVs salvas."
 }
