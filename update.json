@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "1.8.0",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.8.0/controley.apk",
-  "notes": "Novo: em Ajustes, \"Relatar um problema\". Você descreve o que houve, a resposta chega no app e por notificação, e você testa a correção."
+  "versionCode": 42,
+  "versionName": "1.8.1",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.8.1/controley.apk",
+  "notes": "As respostas aos seus relatos agora avisam por notificação em até cerca de 20 minutos, mesmo com o app fechado."
 }
