@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.10.0",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.10.0/controley.apk",
-  "notes": "Novas cores de destaque: azul, vermelho, rosa, roxo e a cor do seu papel de parede, além do verde. Em Ajustes > Aparência."
+  "versionCode": 45,
+  "versionName": "1.11.0",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.11.0/controley.apk",
+  "notes": "Relatos com marca, modelo e foto da TV, botão para relatar em todas as telas de ajuda e novas Perguntas frequentes (em Ajustes e na tela inicial)."
 }
