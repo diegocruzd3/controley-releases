@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.3.0/controley.apk",
-  "notes": "Agora também controla Android TV e Google TV (pareamento por código), em teste inicial. LG, Roku e Samsung seguem iguais."
+  "versionCode": 37,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.4.0/controley.apk",
+  "notes": "Agora também controla Fire TV (PIN na tela), em teste inicial. LG, Roku, Samsung e Android TV seguem iguais."
 }
