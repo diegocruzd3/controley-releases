@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "0.7.2",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.7.2/controley.apk",
-  "notes": "Widget na tela inicial com volume, mudo e desligar."
+  "versionCode": 27,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.8.0/controley.apk",
+  "notes": "Enviar foto ou vídeo do celular para a TV pelo menu Compartilhar."
 }
