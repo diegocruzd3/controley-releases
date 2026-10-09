@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "0.9.1",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.9.1/controley.apk",
-  "notes": "Botão flutuante mais robusto: tela cheia e retorno automático."
+  "versionCode": 32,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.0.0/controley.apk",
+  "notes": "Redesenho visual completo: nova navegação, temas Escuro e Claro, controle e telas redesenhados."
 }
