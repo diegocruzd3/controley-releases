@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.8.1",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.8.1/controley.apk",
-  "notes": "As respostas aos seus relatos agora avisam por notificação em até cerca de 20 minutos, mesmo com o app fechado."
+  "versionCode": 43,
+  "versionName": "1.9.0",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.9.0/controley.apk",
+  "notes": "Nova central de notificações: caixa de entrada, avisos de novas versões e novidades, e preferências por categoria."
 }
