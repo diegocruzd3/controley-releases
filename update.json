@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "0.8.1",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.8.1/controley.apk",
-  "notes": "Fotos agora abrem no navegador da TV; HEIC é convertido para JPEG."
+  "versionCode": 29,
+  "versionName": "0.8.2",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.8.2/controley.apk",
+  "notes": "Fotos enviadas ao player de mídia da TV (DLNA), com o navegador como reserva."
 }
