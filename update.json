@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.0.1/controley.apk",
-  "notes": "Revisão e polimento: barra inferior, teclas coloridas, Mais e tela sem TV."
+  "versionCode": 34,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.1.0/controley.apk",
+  "notes": "Agora também controla TVs Roku (teste inicial). LG segue igual."
 }
