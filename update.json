@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.6.0/controley.apk",
-  "notes": "Agora também controla Panasonic Viera (PIN na tela nas TVs recentes), em teste inicial. LG, Roku, Samsung, Android TV, Fire TV e Sony seguem iguais."
+  "versionCode": 40,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.7.0/controley.apk",
+  "notes": "Nova lista de TVs compatíveis (em Ajustes), que se atualiza sozinha, e orientação passo a passo quando algo dá errado."
 }
