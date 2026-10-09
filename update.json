@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.4.0/controley.apk",
-  "notes": "Agora também controla Fire TV (PIN na tela), em teste inicial. LG, Roku, Samsung e Android TV seguem iguais."
+  "versionCode": 38,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v1.5.0/controley.apk",
+  "notes": "Agora também controla Sony Bravia pelo Controle IP (chave PSK), em teste inicial. LG, Roku, Samsung, Android TV e Fire TV seguem iguais."
 }
