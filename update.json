@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "0.8.0",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.8.0/controley.apk",
-  "notes": "Enviar foto ou vídeo do celular para a TV pelo menu Compartilhar."
+  "versionCode": 28,
+  "versionName": "0.8.1",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.8.1/controley.apk",
+  "notes": "Fotos agora abrem no navegador da TV; HEIC é convertido para JPEG."
 }
