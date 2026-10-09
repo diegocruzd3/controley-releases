@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "0.8.2",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.8.2/controley.apk",
-  "notes": "Fotos enviadas ao player de mídia da TV (DLNA), com o navegador como reserva."
+  "versionCode": 30,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.9.0/controley.apk",
+  "notes": "Botão flutuante com controle da TV por cima de outros apps."
 }
