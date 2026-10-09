@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.7.0/controley.apk",
-  "notes": "Reconecta quando o Wi-Fi volta e troca entre TVs salvas."
+  "versionCode": 25,
+  "versionName": "0.7.1",
+  "apkUrl": "https://github.com/diegocruzd3/controley-releases/releases/download/v0.7.1/controley.apk",
+  "notes": "Volume pelos botões do celular e blocos nas configurações rápidas."
 }
