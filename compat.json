@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-10",
+  "updated": "2026-10-12",
   "brands": [
     {
       "id": "lg",
@@ -114,7 +114,7 @@
       "systems": "Fire TV Stick e Fire TV da Amazon",
       "note": "Usa o protocolo não oficial do app de controle da Amazon. Ainda sem teste em aparelho real.",
       "note_en": "Uses the unofficial protocol of Amazon's remote app. Not yet tested on a real device.",
-      "note_es": "Usa el protocolo no oficial de la app de control de Amazon. Aún sin prueba en un aparato real.",
+      "note_es": "Usa el protocolo no oficial de la app de control de Amazon. Aún sin prueba en un dispositivo real.",
       "steps": [
         "Ligue a Fire TV e deixe o celular no mesmo Wi-Fi.",
         "Na primeira vez a TV mostra um PIN de 4 números. Digite no Comandoo."
