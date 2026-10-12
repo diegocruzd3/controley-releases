@@ -1,105 +1,106 @@
 {
  "schema": 1,
- "updated": "2026-10-09",
+ "rev": 16,
+ "updated": "2026-10-12",
  "items": [
   {
    "id": "o-que-e",
    "section": "start",
    "keywords": "controle remoto marcas modelos compativel funciona",
-   "q": "O que é o Controley e com quais TVs funciona?",
-   "a": "O Controley é um controle remoto que usa o Wi-Fi de casa. Hoje ele controla LG (webOS), Roku, Samsung (Tizen), Android TV e Google TV, Fire TV, Sony Bravia e Panasonic Viera. Só a LG foi testada em TV real; as outras marcas estão em teste inicial. A lista completa e atualizada fica em Ajustes, em TVs compatíveis. O app é independente e não tem vínculo com nenhuma fabricante.",
-   "q_en": "What is Controley and which TVs does it work with?",
-   "a_en": "Controley is a remote control that uses your home Wi-Fi. Today it controls LG (webOS), Roku, Samsung (Tizen), Android TV and Google TV, Fire TV, Sony Bravia and Panasonic Viera. Only LG has been tested on a real TV; the other brands are in early testing. The full, up-to-date list is in Settings, under Compatible TVs. The app is independent and not affiliated with any manufacturer.",
-   "q_es": "¿Qué es Controley y con qué TVs funciona?",
-   "a_es": "Controley es un control remoto que usa el Wi-Fi de tu casa. Hoy controla LG (webOS), Roku, Samsung (Tizen), Android TV y Google TV, Fire TV, Sony Bravia y Panasonic Viera. Solo LG se probó en una TV real; las demás marcas están en prueba inicial. La lista completa y actualizada está en Ajustes, en TVs compatibles. La app es independiente y no tiene relación con ningún fabricante."
+   "q": "O que é o Controley e com quais aparelhos funciona?",
+   "a": "O Controley é um controle remoto que usa o Wi-Fi de casa. Hoje ele controla LG (webOS), Roku, Samsung (Tizen), Android TV e Google TV, Fire TV, Sony Bravia, Panasonic Viera, Philips, Kodi e TVs com a plataforma Vestel. Só a LG foi testada em TV real; as outras marcas estão em teste inicial. A lista completa e atualizada fica em Ajustes, em aparelhos compatíveis. O app é independente e não tem vínculo com nenhuma fabricante.",
+   "q_en": "What is Controley and which devices does it work with?",
+   "a_en": "Controley is a remote control that uses your home Wi-Fi. Today it controls LG (webOS), Roku, Samsung (Tizen), Android TV and Google TV, Fire TV, Sony Bravia, Panasonic Viera, Philips, Kodi and TVs on the Vestel platform. Only LG has been tested on a real TV; the other brands are in early testing. The full, up-to-date list is in Settings, under Compatible devices. The app is independent and not affiliated with any manufacturer.",
+   "q_es": "¿Qué es Controley y con qué dispositivos funciona?",
+   "a_es": "Controley es un control remoto que usa el Wi-Fi de tu casa. Hoy controla LG (webOS), Roku, Samsung (Tizen), Android TV y Google TV, Fire TV, Sony Bravia, Panasonic Viera, Philips, Kodi y TVs con la plataforma Vestel. Solo LG se probó en una TV real; las demás marcas están en prueba inicial. La lista completa y actualizada está en Ajustes, en dispositivos compatibles. La app es independiente y no tiene relación con ningún fabricante."
   },
   {
    "id": "primeira-conexao",
    "section": "start",
    "keywords": "conectar primeira vez parear autorizar buscar",
    "q": "Como conecto pela primeira vez?",
-   "a": "Ligue a TV e deixe o celular no mesmo Wi-Fi que ela. Abra o Controley e toque na TV que aparecer na lista, ou em Buscar TVs. Na primeira vez a TV mostra um pedido ou um código: aceite com o controle da TV ou digite o código no app. Depois disso o app reconecta sozinho.",
+   "a": "Ligue o aparelho e deixe o celular no mesmo Wi-Fi que ele. Abra o Controley e toque no aparelho que aparecer na lista, ou em Buscar aparelhos. Na primeira vez o aparelho mostra um pedido ou um código: aceite com o controle do aparelho ou digite o código no app. Depois disso o app reconecta sozinho.",
    "q_en": "How do I connect for the first time?",
-   "a_en": "Turn the TV on and keep your phone on the same Wi-Fi. Open Controley and tap the TV in the list, or tap Find TVs. The first time, the TV shows a request or a code: accept it with the TV remote or type the code in the app. After that the app reconnects by itself.",
+   "a_en": "Turn the device on and keep your phone on the same Wi-Fi. Open Controley and tap the device in the list, or tap Find devices. The first time, the device shows a request or a code: accept it with the device's own remote or type the code in the app. After that the app reconnects by itself.",
    "q_es": "¿Cómo me conecto por primera vez?",
-   "a_es": "Enciende la TV y deja el celular en el mismo Wi-Fi. Abre Controley y toca la TV de la lista, o toca Buscar TVs. La primera vez la TV muestra una solicitud o un código: acéptala con el control de la TV o escribe el código en la app. Después la app se reconecta sola."
+   "a_es": "Enciende el dispositivo y deja el celular en el mismo Wi-Fi. Abre Controley y toca el dispositivo de la lista, o toca Buscar dispositivos. La primera vez el dispositivo muestra una solicitud o un código: acéptala con el control original del dispositivo o escribe el código en la app. Después la app se reconecta sola."
   },
   {
    "id": "tv-nao-aparece",
    "section": "connect",
    "keywords": "buscar encontrar lista wifi rede convidados nao aparece",
-   "q": "A TV não aparece na busca. O que faço?",
-   "a": "Confira se a TV está ligada (não só em espera) e se o celular está no mesmo Wi-Fi, sem rede de visitantes nem dados móveis. Em algumas marcas é preciso ativar o controle pelo celular nas configurações da TV (veja a sua marca em TVs compatíveis, em Ajustes). Se continuar, use Conectar pelo IP. Se nada funcionar, toque em Relatar e me diga a marca e o modelo da TV.",
-   "q_en": "My TV does not show up in the search. What now?",
-   "a_en": "Check that the TV is on (not just standby) and that your phone is on the same Wi-Fi, not a guest network or mobile data. Some brands need phone control turned on in the TV settings (see your brand under Compatible TVs, in Settings). If it still fails, use Connect by IP. If nothing works, tap Report and tell me the TV brand and model.",
-   "q_es": "Mi TV no aparece en la búsqueda. ¿Qué hago?",
-   "a_es": "Comprueba que la TV esté encendida (no solo en espera) y que el celular esté en el mismo Wi-Fi, sin red de invitados ni datos móviles. Algunas marcas necesitan activar el control por celular en los ajustes de la TV (mira tu marca en TVs compatibles, en Ajustes). Si sigue igual, usa Conectar por IP. Si nada funciona, toca Reportar y dime la marca y el modelo de la TV."
+   "q": "O aparelho não aparece na busca. O que faço?",
+   "a": "Confira se o aparelho está ligado (não só em espera) e se o celular está no mesmo Wi-Fi, sem rede de visitantes nem dados móveis. Em algumas marcas é preciso ativar o controle pelo celular nas configurações do aparelho (veja a sua marca em aparelhos compatíveis, em Ajustes). Se continuar, use Conectar pelo IP. Se nada funcionar, toque em Relatar e me diga a marca e o modelo do aparelho.",
+   "q_en": "My device does not show up in the search. What now?",
+   "a_en": "Check that the device is on (not just standby) and that your phone is on the same Wi-Fi, not a guest network or mobile data. Some brands need phone control turned on in the device settings (see your brand under Compatible devices, in Settings). If it still fails, use Connect by IP. If nothing works, tap Report and tell me the device brand and model.",
+   "q_es": "Mi dispositivo no aparece en la búsqueda. ¿Qué hago?",
+   "a_es": "Comprueba que el dispositivo esté encendido (no solo en espera) y que el celular esté en el mismo Wi-Fi, sin red de invitados ni datos móviles. Algunas marcas necesitan activar el control por celular en los ajustes del dispositivo (mira tu marca en dispositivos compatibles, en Ajustes). Si sigue igual, usa Conectar por IP. Si nada funciona, toca Reportar y dime la marca y el modelo del dispositivo."
   },
   {
    "id": "codigo-pin",
    "section": "connect",
    "keywords": "codigo pin pareamento senha tela da tv",
-   "q": "Que código ou PIN é esse que a TV mostra?",
-   "a": "É o jeito da TV confirmar que você é quem está pareando. Ele aparece na tela da TV e muda a cada tentativa, então olhe a TV na hora e digite exatamente o que ver. Android TV usa 6 letras ou números, Fire TV e Panasonic usam 4 números, e a Sony usa uma chave (PSK) que você mesmo define na TV, em Controle IP.",
-   "q_en": "What is the code or PIN the TV shows?",
-   "a_en": "It is how the TV confirms it is you pairing. It appears on the TV screen and changes on every attempt, so look at the TV right then and type exactly what you see. Android TV uses 6 letters or numbers, Fire TV and Panasonic use 4 numbers, and Sony uses a key (PSK) that you set yourself in the TV, under IP Control.",
-   "q_es": "¿Qué es el código o PIN que muestra la TV?",
-   "a_es": "Es la forma en que la TV confirma que eres tú quien se empareja. Aparece en la pantalla de la TV y cambia en cada intento, así que mira la TV en ese momento y escribe exactamente lo que veas. Android TV usa 6 letras o números, Fire TV y Panasonic usan 4 números, y Sony usa una clave (PSK) que defines tú en la TV, en Control IP."
+   "q": "Que código ou PIN é esse que o aparelho mostra?",
+   "a": "É o jeito do aparelho confirmar que você é quem está pareando. Ele aparece na tela do aparelho e muda a cada tentativa, então olhe o aparelho na hora e digite exatamente o que ver. Android TV usa 6 letras ou números, Fire TV, Panasonic e Philips usam 4 números, o Kodi usa a senha do controle web, e a Sony usa uma chave (PSK) que você mesmo define na TV, em Controle IP.",
+   "q_en": "What is the code or PIN the device shows?",
+   "a_en": "It is how the device confirms it is you pairing. It appears on the device screen and changes on every attempt, so look at the device right then and type exactly what you see. Android TV uses 6 letters or numbers, Fire TV, Panasonic and Philips use 4 numbers, and Kodi uses its web control password, and Sony uses a key (PSK) that you set yourself in the TV, under IP Control.",
+   "q_es": "¿Qué es el código o PIN que muestra el dispositivo?",
+   "a_es": "Es la forma en que el dispositivo confirma que eres tú quien se empareja. Aparece en la pantalla del dispositivo y cambia en cada intento, así que mira el dispositivo en ese momento y escribe exactamente lo que veas. Android TV usa 6 letras o números, Fire TV, Panasonic y Philips usan 4 números, y Kodi usa la contraseña de su control web, y Sony usa una clave (PSK) que defines tú en la TV, en Control IP."
   },
   {
    "id": "ip-da-tv",
    "section": "connect",
    "keywords": "ip endereco rede numero descobrir",
-   "q": "Como descubro o IP da minha TV?",
-   "a": "Nas configurações de rede da TV, em Wi-Fi ou Rede, procure Informações de rede ou Status da conexão: o IP aparece como quatro números separados por ponto, como 192.168.1.42. Também dá para ver na lista de aparelhos conectados do seu roteador. Digite em Conectar pelo IP, sem http:// nem porta.",
-   "q_en": "How do I find my TV's IP address?",
-   "a_en": "In the TV network settings, under Wi-Fi or Network, look for Network information or Connection status: the IP shows as four numbers separated by dots, like 192.168.1.42. You can also see it in your router's list of connected devices. Type it in Connect by IP, without http:// or a port.",
-   "q_es": "¿Cómo encuentro la IP de mi TV?",
-   "a_es": "En los ajustes de red de la TV, en Wi-Fi o Red, busca Información de red o Estado de la conexión: la IP aparece como cuatro números separados por puntos, como 192.168.1.42. También puedes verla en la lista de dispositivos conectados de tu router. Escríbela en Conectar por IP, sin http:// ni puerto."
+   "q": "Como descubro o IP do meu aparelho?",
+   "a": "Nas configurações de rede do aparelho, em Wi-Fi ou Rede, procure Informações de rede ou Status da conexão: o IP aparece como quatro números separados por ponto, como 192.168.1.42. Também dá para ver na lista de aparelhos conectados do seu roteador. Digite em Conectar pelo IP, sem http:// nem porta.",
+   "q_en": "How do I find my device's IP address?",
+   "a_en": "In the device network settings, under Wi-Fi or Network, look for Network information or Connection status: the IP shows as four numbers separated by dots, like 192.168.1.42. You can also see it in your router's list of connected devices. Type it in Connect by IP, without http:// or a port.",
+   "q_es": "¿Cómo encuentro la IP de mi dispositivo?",
+   "a_es": "En los ajustes de red del dispositivo, en Wi-Fi o Red, busca Información de red o Estado de la conexión: la IP aparece como cuatro números separados por puntos, como 192.168.1.42. También puedes verla en la lista de dispositivos conectados de tu router. Escríbela en Conectar por IP, sin http:// ni puerto."
   },
   {
    "id": "conexao-cai",
    "section": "connect",
    "keywords": "cai desconecta reconectar demora wifi bateria",
    "q": "A conexão cai ou demora a voltar.",
-   "a": "O Controley tenta reconectar sozinho quando o Wi-Fi volta e a cada 30 segundos enquanto o app está aberto. Se a TV foi desligada por completo, ela só volta a responder depois de ligada. Se o celular economiza bateria demais, o Android pode pausar o app: nas configurações do Android, deixe o Controley sem restrição de bateria. Se o problema se repetir, toque em Relatar.",
+   "a": "O Controley tenta reconectar sozinho quando o Wi-Fi volta e a cada 30 segundos enquanto o app está aberto. Se o aparelho foi desligado por completo, ele só volta a responder depois de ligado. Se o celular economiza bateria demais, o Android pode pausar o app: nas configurações do Android, deixe o Controley sem restrição de bateria. Se o problema se repetir, toque em Relatar.",
    "q_en": "The connection drops or takes long to come back.",
-   "a_en": "Controley reconnects by itself when Wi-Fi returns and every 30 seconds while the app is open. If the TV was fully powered off, it only answers again after it is turned on. If your phone saves battery too aggressively, Android may pause the app: in Android settings, set Controley to no battery restriction. If it keeps happening, tap Report.",
+   "a_en": "Controley reconnects by itself when Wi-Fi returns and every 30 seconds while the app is open. If the device was fully powered off, it only answers again after it is turned on. If your phone saves battery too aggressively, Android may pause the app: in Android settings, set Controley to no battery restriction. If it keeps happening, tap Report.",
    "q_es": "La conexión se cae o tarda en volver.",
-   "a_es": "Controley se reconecta solo cuando vuelve el Wi-Fi y cada 30 segundos mientras la app está abierta. Si la TV se apagó por completo, solo responde de nuevo cuando la enciendas. Si tu celular ahorra batería en exceso, Android puede pausar la app: en los ajustes de Android, deja Controley sin restricción de batería. Si se repite, toca Reportar."
+   "a_es": "Controley se reconecta solo cuando vuelve el Wi-Fi y cada 30 segundos mientras la app está abierta. Si el dispositivo se apagó por completo, solo responde de nuevo cuando la enciendas. Si tu celular ahorra batería en exceso, Android puede pausar la app: en los ajustes de Android, deja Controley sin restricción de batería. Si se repite, toca Reportar."
   },
   {
    "id": "ligar-tv",
    "section": "connect",
    "keywords": "ligar desligar power wake lan energia",
-   "q": "Consigo ligar a TV pelo celular?",
-   "a": "Depende da TV. Na LG, ative na TV Ligar com dispositivo móvel (ou Ligar via Wi-Fi) e use Ligar a TV pela rede, depois que o app já tiver conectado uma vez. Em outras marcas, ligar pela rede depende do modelo e muitas só desligam, sem ligar. Desligar pelo app funciona na maioria.",
-   "q_en": "Can I turn the TV on from my phone?",
-   "a_en": "It depends on the TV. On LG, turn on Power on with mobile device (or Power on via Wi-Fi) in the TV and use Turn on TV over the network, after the app has connected once. On other brands, turning on over the network depends on the model and many can only turn off. Turning off from the app works on most.",
-   "q_es": "¿Puedo encender la TV desde el celular?",
-   "a_es": "Depende de la TV. En LG, activa en la TV Encender con dispositivo móvil (o Encender por Wi-Fi) y usa Encender la TV por la red, después de que la app se haya conectado una vez. En otras marcas, encender por la red depende del modelo y muchas solo apagan. Apagar desde la app funciona en la mayoría."
+   "q": "Consigo ligar o aparelho pelo celular?",
+   "a": "Depende do aparelho. Na LG, ative na TV Ligar com dispositivo móvel (ou Ligar via Wi-Fi) e use Ligar o aparelho pela rede, depois que o app já tiver conectado uma vez. Em outras marcas, ligar pela rede depende do modelo e muitas só desligam, sem ligar. Desligar pelo app funciona na maioria.",
+   "q_en": "Can I turn the device on from my phone?",
+   "a_en": "It depends on the device. On LG, turn on Power on with mobile device (or Power on via Wi-Fi) in the TV and use Turn the device on over the network, after the app has connected once. On other brands, turning on over the network depends on the model and many can only turn off. Turning off from the app works on most.",
+   "q_es": "¿Puedo encender el dispositivo desde el celular?",
+   "a_es": "Depende del dispositivo. En LG, activa en la TV Encender con dispositivo móvil (o Encender por Wi-Fi) y usa Encender el dispositivo por la red, después de que la app se haya conectado una vez. En otras marcas, encender por la red depende del modelo y muchas solo apagan. Apagar desde la app funciona en la mayoría."
   },
   {
    "id": "botao-desativado",
    "section": "use",
    "keywords": "botao desativado cinza funcao nao funciona",
    "q": "Por que alguns botões ficam apagados ou não fazem nada?",
-   "a": "O Controley mostra só o que a sua TV aceita pelo protocolo dela. Se um botão fica apagado, essa função não existe nessa TV ou nessa marca pelo app. Se você acha que deveria funcionar, toque em Relatar e diga o modelo.",
+   "a": "O Controley mostra só o que o seu aparelho aceita pelo protocolo dele. Se um botão fica apagado, essa função não existe nesse aparelho ou nessa marca pelo app. Se você acha que deveria funcionar, toque em Relatar e diga o modelo.",
    "q_en": "Why are some buttons dimmed or do nothing?",
-   "a_en": "Controley only shows what your TV accepts through its protocol. If a button is dimmed, that function does not exist on that TV or brand through the app. If you think it should work, tap Report and tell me the model.",
+   "a_en": "Controley only shows what your device accepts through its protocol. If a button is dimmed, that function does not exist on that device or brand through the app. If you think it should work, tap Report and tell me the model.",
    "q_es": "¿Por qué algunos botones están apagados o no hacen nada?",
-   "a_es": "Controley solo muestra lo que tu TV acepta por su protocolo. Si un botón está apagado, esa función no existe en esa TV o marca a través de la app. Si crees que debería funcionar, toca Reportar y dime el modelo."
+   "a_es": "Controley solo muestra lo que tu dispositivo acepta por su protocolo. Si un botón está apagado, esa función no existe en ese dispositivo o marca a través de la app. Si crees que debería funcionar, toca Reportar y dime el modelo."
   },
   {
    "id": "digitar",
    "section": "use",
    "keywords": "teclado digitar texto pesquisa ditado voz busca",
-   "q": "Como digito texto na TV?",
-   "a": "Abra a aba Teclado com um campo de texto aberto na TV (por exemplo, a busca do YouTube). O que você digitar aparece na TV ao vivo. Também dá para ditar por voz com o botão do microfone.",
-   "q_en": "How do I type text on the TV?",
-   "a_en": "Open the Keyboard tab with a text field open on the TV (for example, YouTube search). What you type shows on the TV live. You can also dictate with the microphone button.",
-   "q_es": "¿Cómo escribo texto en la TV?",
-   "a_es": "Abre la pestaña Teclado con un campo de texto abierto en la TV (por ejemplo, la búsqueda de YouTube). Lo que escribas aparece en la TV en vivo. También puedes dictar con el botón del micrófono."
+   "q": "Como digito texto no aparelho?",
+   "a": "Abra a aba Teclado com um campo de texto aberto no aparelho (por exemplo, a busca do YouTube). O que você digitar aparece no aparelho ao vivo. Também dá para ditar por voz com o botão do microfone.",
+   "q_en": "How do I type text on the device?",
+   "a_en": "Open the Keyboard tab with a text field open on the device (for example, YouTube search). What you type shows on the device live. You can also dictate with the microphone button.",
+   "q_es": "¿Cómo escribo texto en el dispositivo?",
+   "a_es": "Abre la pestaña Teclado con un campo de texto abierto en el dispositivo (por ejemplo, la búsqueda de YouTube). Lo que escribas aparece en el dispositivo en vivo. También puedes dictar con el botón del micrófono."
   },
   {
    "id": "voz",
@@ -116,12 +117,161 @@
    "id": "botao-flutuante",
    "section": "use",
    "keywords": "botao flutuante sobrepor outros aplicativos overlay bolha",
-   "q": "Como controlo a TV sem sair de outro aplicativo?",
-   "a": "Em Ajustes, ative Botão flutuante. O Android pede a permissão de exibir sobre outros apps, uma vez. O botão fica sobre qualquer aplicativo, e ao tocar ele abre o controle. Para esconder, feche o botão ou desligue na mesma tela.",
-   "q_en": "How do I control the TV without leaving another app?",
-   "a_en": "In Settings, turn on Floating button. Android asks once for the permission to display over other apps. The button stays on top of any app and opens the remote when tapped. To hide it, close the button or turn it off on the same screen.",
-   "q_es": "¿Cómo controlo la TV sin salir de otra app?",
-   "a_es": "En Ajustes, activa Botón flotante. Android pide una vez el permiso de mostrar sobre otras apps. El botón queda sobre cualquier app y abre el control al tocarlo. Para ocultarlo, cierra el botón o desactívalo en la misma pantalla."
+   "q": "Como controlo o aparelho sem sair de outro aplicativo?",
+   "a": "Na aba Mais, ative Botão flutuante. O Android pede a permissão de exibir sobre outros apps, uma vez. O botão fica sobre qualquer aplicativo, e ao tocar ele abre o controle. Para esconder, feche o botão ou desligue no mesmo lugar.",
+   "q_en": "How do I control the device without leaving another app?",
+   "a_en": "In the More tab, turn on Floating button. Android asks once for the permission to display over other apps. The button stays on top of any app and opens the remote when tapped. To hide it, close the button or turn it off in the same place.",
+   "q_es": "¿Cómo controlo el dispositivo sin salir de otra app?",
+   "a_es": "En la pestaña Más, activa Botón flotante. Android pide una vez el permiso de mostrar sobre otras apps. El botón queda sobre cualquier app y abre el control al tocarlo. Para ocultarlo, cierra el botón o desactívalo en el mismo lugar."
+  },
+  {
+   "id": "link-youtube",
+   "section": "use",
+   "keywords": "youtube link video compartilhar enviar tv abrir",
+   "q": "Como mando um vídeo do YouTube para o aparelho?",
+   "a": "No aplicativo do YouTube, abra o vídeo, toque em Compartilhar e escolha Vídeo do YouTube no aparelho (Controley). O aparelho conectado abre o vídeo. Em LG, Roku, Android TV e Samsung o vídeo abre direto; nas outras marcas o app abre o YouTube no aparelho e você escolhe o vídeo nele. Se o aparelho só abrir o YouTube, conte em Relatar para a gente ajustar.",
+   "q_en": "How do I send a YouTube video to the device?",
+   "a_en": "In the YouTube app, open the video, tap Share and choose YouTube video on device (Controley). The connected device opens the video. On LG, Roku, Android TV and Samsung it opens right away; on other brands the app opens YouTube on the device and you pick the video there. If the device only opens YouTube, tell us in Report so we can adjust it.",
+   "q_es": "¿Cómo envío un video de YouTube al dispositivo?",
+   "a_es": "En la app de YouTube, abre el video, toca Compartir y elige Video de YouTube en el dispositivo (Controley). El dispositivo conectado abre el video. En LG, Roku, Android TV y Samsung se abre directo; en otras marcas la app abre YouTube en la TV y eliges el video allí. Si el dispositivo solo abre YouTube, cuéntalo en Informar para ajustarlo."
+  },
+  {
+   "id": "testar-conexao",
+   "section": "connect",
+   "keywords": "testar conexao diagnostico nao conecta wifi rede problema",
+   "q": "O aparelho não conecta. Como descubro o motivo?",
+   "a": "Toque na faixa verde de conexão (ou em Ajustes, Ajuda e suporte) e escolha Testar conexão. Em poucos segundos o Controley confere o Wi-Fi, o aparelho salvo, se o celular e o aparelho estão na mesma rede, se o aparelho responde, o pareamento e a velocidade, e diz o que fazer. Se não resolver, toque em Enviar com relato para mandar o resultado junto.",
+   "q_en": "The device will not connect. How do I find out why?",
+   "a_en": "Tap the green connection bar (or Settings, Help and support) and choose Test connection. In a few seconds Controley checks the Wi-Fi, the saved device, whether the phone and the device share a network, whether the device answers, the pairing and the speed, and tells you what to do. If it does not help, tap Send with a report to include the result.",
+   "q_es": "El dispositivo no conecta. ¿Cómo descubro el motivo?",
+   "a_es": "Toca la barra verde de conexión (o Ajustes, Ayuda y soporte) y elige Probar conexión. En pocos segundos Controley revisa el Wi-Fi, el dispositivo guardado, si el celular y el dispositivo están en la misma red, si el dispositivo responde, el emparejamiento y la velocidad, y dice qué hacer. Si no se resuelve, toca Enviar con un informe para mandar el resultado."
+  },
+  {
+   "id": "cenas",
+   "section": "use",
+   "keywords": "cena cenas rotina ligar abrir app volume um toque atalho",
+   "q": "O que são as Cenas e como crio uma?",
+   "a": "Uma cena junta vários passos em um toque, como ligar o aparelho, abrir um app, ajustar o volume ou desligar. Na aba Mais, em Cenas, toque numa cena para rodar, ou em Nova cena para criar a sua: dê um nome e adicione os passos. Os passos rodam em ordem e a cena para no primeiro que falhar, avisando o motivo. Para ligar o aparelho, o Controley precisa já conhecer o endereço MAC dele (conecte uma vez com o aparelho ligado).",
+   "q_en": "What are Scenes and how do I create one?",
+   "a_en": "A scene joins several steps in one tap, such as turning the device on, opening an app, setting the volume or turning it off. In the More tab, under Scenes, tap a scene to run it, or New scene to create your own: give it a name and add the steps. Steps run in order and the scene stops at the first one that fails, saying why. To turn the device on, Controley must already know its MAC address (connect once while the device is on).",
+   "q_es": "¿Qué son las Escenas y cómo creo una?",
+   "a_es": "Una escena une varios pasos en un toque, como encender el dispositivo, abrir una app, ajustar el volumen o apagar. En la pestaña Más, en Escenas, toca una escena para ejecutarla, o Nueva escena para crear la tuya: ponle un nombre y añade los pasos. Los pasos se ejecutan en orden y la escena se detiene en el primero que falle, indicando el motivo. Para encender el dispositivo, Controley debe conocer ya su dirección MAC (conéctate una vez con el dispositivo encendido)."
+  },
+  {
+   "id": "tela-bloqueio",
+   "section": "use",
+   "keywords": "tela de bloqueio notificacao fixa volume mudo pausa desligar sem desbloquear",
+   "q": "Posso controlar o aparelho com o celular bloqueado?",
+   "a": "Sim. Em Ajustes, ligue Controle na tela de bloqueio. Uma notificação fixa do Controley passa a mostrar Vol −, Vol +, Mudo, Pausar e Desligar, inclusive com o celular bloqueado. O app só conecta ao aparelho quando você toca num botão e desconecta logo depois, para gastar pouca bateria. Desligar pede um segundo toque em até 5 segundos, para evitar toques sem querer no bolso. Precisa da permissão de notificações.",
+   "q_en": "Can I control the device with my phone locked?",
+   "a_en": "Yes. In Settings, turn on Lock-screen remote. A pinned Controley notification then shows Vol −, Vol +, Mute, Pause and Power off, even while the phone is locked. The app only connects to the device when you tap a button and disconnects soon after, to use little battery. Power off asks for a second tap within 5 seconds, to avoid accidental taps in your pocket. It needs the notifications permission.",
+   "q_es": "¿Puedo controlar el dispositivo con el teléfono bloqueado?",
+   "a_es": "Sí. En Ajustes, activa Control en la pantalla de bloqueo. Una notificación fija de Controley muestra Vol −, Vol +, Silencio, Pausar y Apagar, incluso con el teléfono bloqueado. La app solo se conecta al dispositivo cuando tocas un botón y se desconecta poco después, para gastar poca batería. Apagar pide un segundo toque en 5 segundos, para evitar toques sin querer en el bolsillo. Necesita el permiso de notificaciones."
+  },
+  {
+   "id": "estatisticas",
+   "section": "privacy",
+   "keywords": "estatisticas anonimas dados privacidade marca etapa resultado compartilhar",
+   "q": "O que são as estatísticas anônimas?",
+   "a": "São opcionais e começam desligadas. Se você aceitar (na pergunta depois da primeira conexão ou em Ajustes, Privacidade e dados), o app envia só a marca do aparelho, em que etapa algo deu certo ou errado (buscar, parear, conectar ou comandar), o motivo em categorias fixas, e a versão do app e do Android. Não envia endereço IP ou MAC, nome do aparelho ou da rede, textos, nem um código do seu celular. Serve para saber qual marca falha mais e corrigir primeiro. Você pode desligar quando quiser, e o que ainda não foi enviado é apagado. Os dados são apagados do servidor depois de 6 meses.",
+   "q_en": "What are anonymous statistics?",
+   "a_en": "They are optional and start off. If you accept (in the question after your first connection, or in Settings, Privacy and data), the app sends only the device brand, which step worked or failed (search, pair, connect or command), the reason in fixed categories, and the app and Android versions. It does not send IP or MAC addresses, device or network names, texts, or an identifier of your phone. It helps us see which brand fails most and fix it first. You can turn it off any time, and anything not yet sent is deleted. The data is deleted from the server after 6 months.",
+   "q_es": "¿Qué son las estadísticas anónimas?",
+   "a_es": "Son opcionales y empiezan desactivadas. Si aceptas (en la pregunta después de la primera conexión o en Ajustes, Privacidad y datos), la app envía solo la marca del dispositivo, en qué paso algo salió bien o mal (buscar, emparejar, conectar o comandar), el motivo en categorías fijas, y la versión de la app y de Android. No envía direcciones IP o MAC, nombres del dispositivo o de la red, textos, ni un identificador de tu teléfono. Sirve para saber qué marca falla más y corregirla primero. Puedes desactivarlas cuando quieras, y lo que aún no se envió se borra. Los datos se borran del servidor después de 6 meses."
+  },
+  {
+   "id": "favoritos-inteligentes",
+   "section": "use",
+   "keywords": "favoritos inteligentes recentes horario uso ordem apps",
+   "q": "Por que a ordem dos meus apps muda?",
+   "a": "Com Favoritos inteligentes ligado (Ajustes, Controle), o Controley anota, só no seu celular, quantas vezes você abre cada app e em que parte do dia. Os apps que você mais usa naquele horário aparecem primeiro, e os recentes seguem o seu uso. O hábito antigo vai perdendo peso com o tempo. Para manter a ordem fixa, desligue a opção: ela volta a mostrar seus favoritos na ordem que você escolheu.",
+   "q_en": "Why does the order of my apps change?",
+   "a_en": "With Smart favorites on (Settings, Control), Controley notes, only on your phone, how often you open each app and at what time of day. The apps you use most at that time come first, and recents follow your use. Old habits fade with time. To keep a fixed order, turn the option off: your favorites go back to the order you chose.",
+   "q_es": "¿Por qué cambia el orden de mis apps?",
+   "a_es": "Con Favoritos inteligentes activado (Ajustes, Control), Controley anota, solo en tu teléfono, cuántas veces abres cada app y en qué parte del día. Las apps que más usas a esa hora aparecen primero, y los recientes siguen tu uso. El hábito antiguo va perdiendo peso con el tiempo. Para mantener un orden fijo, desactiva la opción: tus favoritos vuelven al orden que elegiste."
+  },
+  {
+   "id": "avisar-chegar-casa",
+   "section": "use",
+   "keywords": "chegar em casa aviso notificacao wifi tv responde localizacao",
+   "q": "Como funciona o aviso ao chegar em casa?",
+   "a": "É opcional (Ajustes, Controle, Avisar ao chegar em casa). Quando o celular entra num Wi-Fi, o Android avisa o app, que confere se o aparelho salvo responde na rede. Se responder, aparece uma notificação discreta: Controlar o aparelho? Toque para abrir o controle. Não usa localização nem GPS, só a resposta do próprio aparelho. Aparece no máximo uma vez a cada 6 horas, nunca entre 22h e 7h, e não aparece se você acabou de usar o app. Precisa da permissão de notificações.",
+   "q_en": "How does the arrive-home notice work?",
+   "a_en": "It is optional (Settings, Control, Notify me when I get home). When the phone joins a Wi-Fi network, Android tells the app, which checks whether the saved device answers on the network. If it does, a quiet notification appears: Control the device? Tap to open the remote. It uses no location or GPS, only the device's own answer. It shows at most once every 6 hours, never between 10 pm and 7 am, and not if you just used the app. It needs the notifications permission.",
+   "q_es": "¿Cómo funciona el aviso al llegar a casa?",
+   "a_es": "Es opcional (Ajustes, Control, Avisar al llegar a casa). Cuando el teléfono entra a una red Wi-Fi, Android avisa a la app, que comprueba si el dispositivo guardado responde en la red. Si responde, aparece una notificación discreta: ¿Controlar el dispositivo? Toca para abrir el control. No usa ubicación ni GPS, solo la respuesta de la propio dispositivo. Aparece como máximo una vez cada 6 horas, nunca entre las 22 y las 7 h, y no aparece si acabas de usar la app. Necesita el permiso de notificaciones."
+  },
+  {
+   "id": "samsung-permissao",
+   "section": "connect",
+   "keywords": "samsung permissao pedir toda vez aceitar tv autorizar token notificacao de acesso",
+   "q": "A TV Samsung pede permissão toda vez que conecto. Como evitar?",
+   "a": "Na TV, abra Configurações > Geral > Gerenciador de conexão de dispositivos > Configurações de notificação de acesso e escolha Somente na primeira vez. Se o aparelho já estiver na Lista de dispositivos, apague a entrada antiga e autorize de novo uma vez. Depois disso a TV guarda a autorização e o app não precisa pedir de novo.",
+   "q_en": "My Samsung TV asks for permission every time I connect. How do I stop that?",
+   "a_en": "On the TV, open Settings > General > Device Connection Manager > Access Notification Settings and choose First Time Only. If this phone is already in the Device List, delete the old entry and authorize once more. After that the TV remembers the authorization and the app does not need to ask again.",
+   "q_es": "Mi TV Samsung pide permiso cada vez que me conecto. ¿Cómo evitarlo?",
+   "a_es": "En la TV, abre Ajustes > General > Administrador de conexión de dispositivos > Configuración de notificaciones de acceso y elige Solo la primera vez. Si este celular ya está en la Lista de dispositivos, borra la entrada antigua y autoriza una vez más. Después la TV recuerda la autorización y la app no necesita pedirla otra vez.",
+   "brands": [
+    "samsung"
+   ]
+  },
+  {
+   "id": "roku-limitado",
+   "section": "connect",
+   "keywords": "roku nao responde botoes limitado permissivo ativado controle por apps moveis recusa comando",
+   "q": "Minha Roku conecta, mas os botões não funcionam. O que fazer?",
+   "a": "Nas Roku mais novas (desde 2024) o acesso pelo celular vem como Limitado, e a TV recusa os comandos. Na TV, abra Configurações > Sistema > Configurações avançadas > Controle por apps móveis e deixe o acesso à rede como Ativado. Depois toque em Tentar de novo no app.",
+   "q_en": "My Roku connects but the buttons do nothing. What can I do?",
+   "a_en": "On newer Roku TVs (since 2024) mobile access comes set to Limited, and the TV refuses commands. On the TV, open Settings > System > Advanced system settings > Control by mobile apps and set Network access to Enabled. Then tap Try again in the app.",
+   "q_es": "Mi Roku se conecta, pero los botones no funcionan. ¿Qué hago?",
+   "a_es": "En las Roku más nuevas (desde 2024) el acceso desde el celular viene en Limitado y la TV rechaza los comandos. En la TV, abre Configuración > Sistema > Configuración avanzada del sistema > Control por apps móviles y deja el acceso a la red en Habilitado. Luego toca Intentar de nuevo en la app.",
+   "brands": [
+    "roku"
+   ]
+  },
+  {
+   "id": "lg-permissao",
+   "section": "connect",
+   "keywords": "lg pareamento sem permissao touchpad botoes 401 refazer pareamento webos 26 firmware atualizacao",
+   "q": "Minha LG conecta, mas o touchpad e os botões não funcionam. O que fazer?",
+   "a": "Algumas atualizações recentes da LG (webOS 26) aceitam o pareamento sem liberar o controle dos botões. Em Ajustes, toque em Refazer pareamento e aceite o pedido que aparece na TV. Se a TV recusar o app, atualize o aplicativo e tente de novo.",
+   "q_en": "My LG connects, but the touchpad and buttons do not work. What can I do?",
+   "a_en": "Some recent LG updates (webOS 26) accept pairing without allowing control of the buttons. In Settings, tap Pair again and accept the request that appears on the TV. If the TV refuses the app, update the app and try again.",
+   "q_es": "Mi LG se conecta, pero el panel táctil y los botones no funcionan. ¿Qué hago?",
+   "a_es": "Algunas actualizaciones recientes de LG (webOS 26) aceptan el emparejamiento sin permitir el control de los botones. En Ajustes, toca Volver a emparejar y acepta la solicitud que aparece en la TV. Si la TV rechaza la app, actualiza la app e inténtalo de nuevo.",
+   "brands": [
+    "lg"
+   ]
+  },
+  {
+   "id": "mesma-rede",
+   "section": "connect",
+   "keywords": "samsung panasonic outra rede wifi visitantes sub-rede vlan 403 recusou comando mesma rede",
+   "q": "O aparelho recusa os comandos mesmo ligado. O que pode ser?",
+   "a": "Samsung e Panasonic só aceitam comandos de aparelhos na mesma rede. Se o celular está no Wi-Fi de visitantes, em outra faixa do roteador ou em dados móveis, a TV recusa. Conecte o celular ao mesmo Wi-Fi da TV e tente de novo.",
+   "q_en": "The device refuses commands even though it is on. What could it be?",
+   "a_en": "Samsung and Panasonic only accept commands from devices on the same network. If the phone is on a guest Wi-Fi, another router segment or mobile data, the TV refuses. Connect the phone to the same Wi-Fi as the TV and try again.",
+   "q_es": "El dispositivo rechaza los comandos aunque está encendido. ¿Qué puede ser?",
+   "a_es": "Samsung y Panasonic solo aceptan comandos de dispositivos en la misma red. Si el celular está en el Wi-Fi de invitados, en otro segmento del router o con datos móviles, la TV rechaza. Conecta el celular al mismo Wi-Fi de la TV e inténtalo de nuevo.",
+   "brands": [
+    "samsung",
+    "panasonic"
+   ]
+  },
+  {
+   "id": "vestel",
+   "section": "connect",
+   "keywords": "vestel panasonic toshiba telefunken haier smartcenter porta 56789 nao responde 55000",
+   "q": "Minha Panasonic (ou Toshiba, Telefunken) não conecta como Panasonic. O que fazer?",
+   "a": "Alguns modelos dessas marcas são feitos pela Vestel e não usam o controle da Panasonic (porta 55000). Eles aceitam comandos por outra porta (56789), sem PIN. Toque em Buscar aparelhos, ou digite o IP da TV em Conectar pelo IP: o app reconhece sozinho. Esta compatibilidade é inicial, ainda sem teste em TV real.",
+   "q_en": "My Panasonic (or Toshiba, Telefunken) does not connect as a Panasonic. What can I do?",
+   "a_en": "Some models from these brands are made by Vestel and do not use Panasonic's remote control (port 55000). They accept commands on another port (56789), with no PIN. Tap Find devices, or type the TV's IP in Connect by IP: the app recognises it by itself. This compatibility is initial, not yet tested on a real TV.",
+   "q_es": "Mi Panasonic (o Toshiba, Telefunken) no se conecta como Panasonic. ¿Qué hago?",
+   "a_es": "Algunos modelos de estas marcas son fabricados por Vestel y no usan el control de Panasonic (puerto 55000). Aceptan comandos por otro puerto (56789), sin PIN. Toca Buscar dispositivos, o escribe la IP de la TV en Conectar por IP: la app la reconoce sola. Esta compatibilidad es inicial, aún sin prueba en una TV real.",
+   "brands": [
+    "vestel",
+    "panasonic"
+   ]
   },
   {
    "id": "widget",
@@ -138,12 +288,12 @@
    "id": "compartilhar",
    "section": "share",
    "keywords": "foto video compartilhar galeria enviar tela",
-   "q": "Como mando uma foto ou vídeo do celular para a TV?",
-   "a": "Na galeria do celular, abra a foto ou o vídeo, toque em Compartilhar e escolha o Controley. A TV abre o arquivo pela rede de casa. Celular e TV precisam estar no mesmo Wi-Fi e o app precisa estar conectado. Esse recurso foi testado na LG; em outras marcas pode não estar disponível.",
-   "q_en": "How do I send a photo or video from my phone to the TV?",
-   "a_en": "In your phone gallery, open the photo or video, tap Share and choose Controley. The TV opens the file over your home network. Phone and TV must be on the same Wi-Fi and the app must be connected. This was tested on LG; on other brands it may not be available.",
-   "q_es": "¿Cómo envío una foto o video del celular a la TV?",
-   "a_es": "En la galería del celular, abre la foto o el video, toca Compartir y elige Controley. La TV abre el archivo por la red de casa. Celular y TV deben estar en el mismo Wi-Fi y la app debe estar conectada. Esto se probó en LG; en otras marcas puede no estar disponible."
+   "q": "Como mando uma foto ou vídeo do celular para o aparelho?",
+   "a": "Na galeria do celular, abra a foto ou o vídeo, toque em Compartilhar e escolha o Controley. O aparelho abre o arquivo pela rede de casa. Celular e aparelho precisam estar no mesmo Wi-Fi e o app precisa estar conectado. Esse recurso foi testado na LG; em outras marcas pode não estar disponível.",
+   "q_en": "How do I send a photo or video from my phone to the device?",
+   "a_en": "In your phone gallery, open the photo or video, tap Share and choose Controley. The device opens the file over your home network. Phone and device must be on the same Wi-Fi and the app must be connected. This was tested on LG; on other brands it may not be available.",
+   "q_es": "¿Cómo envío una foto o video del celular al dispositivo?",
+   "a_es": "En la galería del celular, abre la foto o el video, toca Compartir y elige Controley. El dispositivo abre el archivo por la red de casa. Celular y dispositivo deben estar en el mismo Wi-Fi y la app debe estar conectado. Esto se probó en LG; en otras marcas puede no estar disponible."
   },
   {
    "id": "atualizar",
@@ -154,7 +304,12 @@
    "q_en": "How do I update the app?",
    "a_en": "When a new version exists, a notice appears on the Remote tab and as a notification. Tap Update and confirm the Android installation. To check right now, use Check for updates in Settings. If Android asks, allow installing apps from Controley.",
    "q_es": "¿Cómo actualizo la aplicación?",
-   "a_es": "Cuando hay una versión nueva, aparece un aviso en la pestaña Control y una notificación. Toca Actualizar y confirma la instalación de Android. Para comprobar ahora, usa Buscar actualización en Ajustes. Si Android lo pide, permite instalar apps desde Controley."
+   "a_es": "Cuando hay una versión nueva, aparece un aviso en la pestaña Control y una notificación. Toca Actualizar y confirma la instalación de Android. Para comprobar ahora, usa Buscar actualización en Ajustes. Si Android lo pide, permite instalar apps desde Controley.",
+   "play": {
+    "a": "O Comandoo é atualizado pela Google Play. Para checar agora, toque em Procurar atualização em Ajustes: o app abre a página dele na Play, onde aparece o botão Atualizar quando há versão nova. Para receber as atualizações sozinho, deixe ligada a atualização automática de apps na Play.",
+    "a_en": "Comandoo is updated through Google Play. To check now, tap Check for updates in Settings: the app opens its Play page, where an Update button appears when there is a new version. To get updates by themselves, keep automatic app updates turned on in Play.",
+    "a_es": "Comandoo se actualiza por Google Play. Para comprobar ahora, toca Buscar actualización en Ajustes: la app abre su página en Play, donde aparece el botón Actualizar cuando hay una versión nueva. Para recibir las actualizaciones solas, deja activadas las actualizaciones automáticas de apps en Play."
+   }
   },
   {
    "id": "aparencia",
@@ -176,40 +331,50 @@
    "q_en": "What are notifications for and how do I turn them off?",
    "a_en": "They tell you about new versions, answers to your reports and important announcements. In Settings, tap Notifications to turn each type on or off. If none arrive, check that Android allows Controley notifications and that battery limits are not restricting the app.",
    "q_es": "¿Para qué sirven las notificaciones y cómo las desactivo?",
-   "a_es": "Avisan de versiones nuevas, respuestas a tus reportes y comunicados importantes. En Ajustes, toca Notificaciones para activar o desactivar cada tipo. Si no llega ninguna, comprueba que Android permita notificaciones de Controley y que la batería no restrinja la app."
+   "a_es": "Avisan de versiones nuevas, respuestas a tus reportes y comunicados importantes. En Ajustes, toca Notificaciones para activar o desactivar cada tipo. Si no llega ninguna, comprueba que Android permita notificaciones de Controley y que la batería no restrinja la app.",
+   "play": {
+    "a": "Elas avisam de respostas aos seus relatos e de comunicados importantes. Em Ajustes, toque em Notificações para ligar ou desligar cada tipo. Se nenhuma chega, confira se o Android permite notificações do Comandoo e se a bateria não está restringindo o app.",
+    "a_en": "They tell you about answers to your reports and important announcements. In Settings, tap Notifications to turn each type on or off. If none arrive, check that Android allows Comandoo notifications and that battery limits are not restricting the app.",
+    "a_es": "Avisan de respuestas a tus reportes y comunicados importantes. En Ajustes, toca Notificaciones para activar o desactivar cada tipo. Si no llega ninguna, comprueba que Android permita notificaciones de Comandoo y que la batería no restrinja la app."
+   }
   },
   {
    "id": "privacidade",
    "section": "privacy",
    "keywords": "privacidade dados internet anuncios enviar seguranca",
    "q": "O que o app envia pela internet?",
-   "a": "Os comandos para a TV ficam dentro da sua rede de casa. O app usa a internet só para checar versão nova, a lista de TVs compatíveis, este FAQ e os comunicados, e para enviar um relato quando você decidir. Não há anúncios. Um relato leva a versão do app, o modelo do celular e do Android, a marca da TV e eventos de conexão, sem IP, nome ou contatos. Fotos anexadas são reduzidas e perdem local e data.",
+   "a": "Os comandos para o aparelho, a lista de aparelhos, os endereços e os favoritos ficam só no seu celular e na sua rede de casa. O app baixa da internet a lista de aparelhos compatíveis, este FAQ, os comunicados e o aviso de versão nova do app, e fala com o servidor de comunicados e relatos, que recebe um código aleatório da instalação do app e se você abriu ou tocou em cada comunicado. Um relato só é enviado quando você decide: leva o texto, a versão do app, o modelo do celular e do Android, o idioma, a marca do aparelho, o estado da conexão e eventos recentes (com o final do IP, endereços MAC e e-mails ocultados) e até 2 fotos reduzidas, sem local nem data. Não há anúncios nem conta. A política completa está em Ajustes, em Política de privacidade.",
    "q_en": "What does the app send over the internet?",
-   "a_en": "Commands to the TV stay inside your home network. The app uses the internet only to check for a new version, the compatible TV list, this FAQ and announcements, and to send a report when you decide to. There are no ads. A report carries the app version, phone and Android model, TV brand and connection events, without IP, name or contacts. Attached photos are shrunk and lose location and date.",
+   "a_en": "Commands to the device, the device list, addresses and favorites stay only on your phone and your home network. The app downloads the compatible device list, this FAQ, announcements and the new-version notice from the internet, and talks to the announcements and reports server, which receives a random install code and whether you opened or tapped each announcement. A report is sent only when you decide: it carries your text, the app version, phone and Android model, language, device brand, connection state and recent events (with the end of the IP, MAC addresses and e-mails hidden) and up to 2 shrunk photos, without location or date. There are no ads and no account. The full policy is in Settings, under Privacy policy.",
    "q_es": "¿Qué envía la app por internet?",
-   "a_es": "Los comandos a la TV se quedan dentro de tu red de casa. La app usa internet solo para comprobar versión nueva, la lista de TVs compatibles, estas preguntas y los comunicados, y para enviar un reporte cuando tú decidas. No hay anuncios. Un reporte lleva la versión de la app, el modelo del celular y de Android, la marca de la TV y eventos de conexión, sin IP, nombre ni contactos. Las fotos adjuntas se reducen y pierden ubicación y fecha."
+   "a_es": "Los comandos al dispositivo, la lista de dispositivos, las direcciones y los favoritos se quedan solo en tu celular y en tu red de casa. La app descarga de internet la lista de dispositivos compatibles, estas preguntas, los comunicados y el aviso de versión nueva, y habla con el servidor de comunicados y reportes, que recibe un código aleatorio del aparato y si abriste o tocaste cada comunicado. Un reporte solo se envía cuando tú decides: lleva tu texto, la versión de la app, el modelo del celular y de Android, el idioma, la marca del dispositivo, el estado de la conexión y eventos recientes (con el final de la IP, las direcciones MAC y los correos ocultos) y hasta 2 fotos reducidas, sin ubicación ni fecha. No hay anuncios ni cuenta. La política completa está en Ajustes, en Política de privacidad.",
+   "play": {
+    "a": "Os comandos para o aparelho, a lista de aparelhos, os endereços e os favoritos ficam só no seu celular e na sua rede de casa. O app baixa da internet a lista de aparelhos compatíveis, este FAQ e os comunicados, e fala com o servidor de comunicados e relatos, que recebe um código aleatório da instalação do app e se você abriu ou tocou em cada comunicado. Um relato só é enviado quando você decide: leva o texto, a versão do app, o modelo do celular e do Android, o idioma, a marca do aparelho, o estado da conexão e eventos recentes (com o final do IP, endereços MAC e e-mails ocultados) e até 2 fotos reduzidas, sem local nem data. Não há anúncios nem conta. A política completa está em Ajustes, em Política de privacidade.",
+    "a_en": "Commands to the device, the device list, addresses and favorites stay only on your phone and your home network. The app downloads the compatible device list, this FAQ and announcements from the internet, and talks to the announcements and reports server, which receives a random install code and whether you opened or tapped each announcement. A report is sent only when you decide: it carries your text, the app version, phone and Android model, language, device brand, connection state and recent events (with the end of the IP, MAC addresses and e-mails hidden) and up to 2 shrunk photos, without location or date. There are no ads and no account. The full policy is in Settings, under Privacy policy.",
+    "a_es": "Los comandos al dispositivo, la lista de dispositivos, las direcciones y los favoritos se quedan solo en tu celular y en tu red de casa. La app descarga de internet la lista de dispositivos compatibles, estas preguntas y los comunicados, y habla con el servidor de comunicados y reportes, que recibe un código aleatorio del aparato y si abriste o tocaste cada comunicado. Un reporte solo se envía cuando tú decides: lleva tu texto, la versión de la app, el modelo del celular y de Android, el idioma, la marca del dispositivo, el estado de la conexión y eventos recientes (con el final de la IP, las direcciones MAC y los correos ocultos) y hasta 2 fotos reducidas, sin ubicación ni fecha. No hay anuncios ni cuenta. La política completa está en Ajustes, en Política de privacidad."
+   }
   },
   {
    "id": "relatar",
    "section": "privacy",
    "keywords": "relatar problema sugestao modelo foto etiqueta resposta ajuda",
-   "q": "Como relato um problema ou peço uma TV nova?",
-   "a": "Em Ajustes, toque em Relatar um problema (ou no botão Relatar das telas de ajuda). Conte o que aconteceu, escolha a marca e escreva o modelo da TV. Se não achar o modelo, anexe uma foto da TV ou da etiqueta atrás dela que eu identifico. A resposta chega no próprio app e por notificação, e depois peço que você teste de novo.",
-   "q_en": "How do I report a problem or ask for a new TV?",
-   "a_en": "In Settings, tap Report a problem (or the Report button on help screens). Tell what happened, choose the brand and write the TV model. If you cannot find the model, attach a photo of the TV or of the label on its back and I will identify it. The answer arrives in the app and as a notification, and then I ask you to test again.",
-   "q_es": "¿Cómo reporto un problema o pido una TV nueva?",
-   "a_es": "En Ajustes, toca Reportar un problema (o el botón Reportar de las pantallas de ayuda). Cuenta qué pasó, elige la marca y escribe el modelo de la TV. Si no encuentras el modelo, adjunta una foto de la TV o de la etiqueta de atrás y yo la identifico. La respuesta llega en la app y como notificación, y luego te pido que pruebes de nuevo."
+   "q": "Como relato um problema ou peço um aparelho novo?",
+   "a": "Em Ajustes, toque em Relatar um problema (ou no botão Relatar das telas de ajuda). Conte o que aconteceu, escolha a marca e escreva o modelo do aparelho. Se não achar o modelo, anexe uma foto do aparelho ou da etiqueta atrás dele que eu identifico. A resposta chega no próprio app e por notificação, e depois peço que você teste de novo.",
+   "q_en": "How do I report a problem or ask for a new device?",
+   "a_en": "In Settings, tap Report a problem (or the Report button on help screens). Tell what happened, choose the brand and write the device model. If you cannot find the model, attach a photo of the device or of the label on its back and I will identify it. The answer arrives in the app and as a notification, and then I ask you to test again.",
+   "q_es": "¿Cómo reporto un problema o pido un dispositivo nuevo?",
+   "a_es": "En Ajustes, toca Reportar un problema (o el botón Reportar de las pantallas de ayuda). Cuenta qué pasó, elige la marca y escribe el modelo del dispositivo. Si no encuentras el modelo, adjunta una foto del dispositivo o de la etiqueta de atrás y yo lo identifico. La respuesta llega en la app y como notificación, y luego te pido que pruebes de nuevo."
   },
   {
    "id": "marca-fora",
    "section": "connect",
    "keywords": "marca nao listada hisense philips vizio apple tcl philco aoc outras",
-   "q": "Minha TV é de uma marca que não está na lista.",
-   "a": "Muitas TVs usam por dentro um sistema que já cobrimos: TCL, Philco, AOC, Multilaser e Semp costumam ser Roku ou Android TV, e Toshiba e Philips também podem ser Android TV. Tente Buscar TVs. Se a TV não aparecer, toque em Relatar com a marca e o modelo ou uma foto da etiqueta: assim vejo se dá para incluir.",
-   "q_en": "My TV brand is not on the list.",
-   "a_en": "Many TVs run a system we already cover: TCL, Philco, AOC, Multilaser and Semp are often Roku or Android TV, and Toshiba and Philips can also be Android TV. Try Find TVs. If the TV does not show up, tap Report with the brand and model or a photo of the label so I can see if it can be added.",
-   "q_es": "Mi TV es de una marca que no está en la lista.",
-   "a_es": "Muchas TVs usan por dentro un sistema que ya cubrimos: TCL, Philco, AOC, Multilaser y Semp suelen ser Roku o Android TV, y Toshiba y Philips también pueden ser Android TV. Prueba Buscar TVs. Si la TV no aparece, toca Reportar con la marca y el modelo o una foto de la etiqueta para ver si se puede incluir."
+   "q": "Meu aparelho é de uma marca que não está na lista.",
+   "a": "Muitas TVs usam por dentro um sistema que já cobrimos: TCL, Philco, AOC, Multilaser e Semp costumam ser Roku ou Android TV, e Toshiba e Philips também podem ser Android TV. Tente Buscar aparelhos. Se a TV não aparecer, toque em Relatar com a marca e o modelo ou uma foto da etiqueta: assim vejo se dá para incluir.",
+   "q_en": "My device brand is not on the list.",
+   "a_en": "Many TVs run a system we already cover: TCL, Philco, AOC, Multilaser and Semp are often Roku or Android TV, and Toshiba and Philips can also be Android TV. Try Find devices. If the TV does not show up, tap Report with the brand and model or a photo of the label so I can see if it can be added.",
+   "q_es": "Mi dispositivo es de una marca que no está en la lista.",
+   "a_es": "Muchas TVs usan por dentro un sistema que ya cubrimos: TCL, Philco, AOC, Multilaser y Semp suelen ser Roku o Android TV, y Toshiba y Philips también pueden ser Android TV. Prueba Buscar dispositivos. Si la TV no aparece, toca Reportar con la marca y el modelo o una foto de la etiqueta para ver si se puede incluir."
   }
  ]
 }

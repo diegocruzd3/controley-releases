@@ -1,92 +1,273 @@
 {
   "schema": 1,
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "brands": [
     {
-      "id": "lg", "name": "LG webOS", "status": "tested",
+      "id": "lg",
+      "name": "LG webOS",
+      "status": "tested",
       "systems": "Smart TVs LG com webOS",
       "note": "Testado em uma LG UQ7500 (webOS). Todas as funções do app.",
       "note_en": "Tested on an LG UQ7500 (webOS). Every app function.",
       "note_es": "Probado en una LG UQ7500 (webOS). Todas las funciones de la app.",
-      "steps": ["Ligue a TV e deixe o celular no mesmo Wi-Fi.", "Na primeira vez, aceite o pedido do Controley na tela da TV, usando o controle da TV.", "Se a TV não aparecer, procure nas configurações de rede da TV a opção de conexão com celular (como LG Connect Apps) e ative."],
-      "steps_en": ["Turn the TV on and keep the phone on the same Wi-Fi.", "The first time, accept the Controley request on the TV screen with the TV remote.", "If the TV does not show up, look in the TV network settings for the phone connection option (such as LG Connect Apps) and turn it on."],
-      "steps_es": ["Enciende la TV y deja el celular en el mismo Wi-Fi.", "La primera vez, acepta la solicitud de Controley en la pantalla de la TV con el control de la TV.", "Si la TV no aparece, busca en los ajustes de red de la TV la opción de conexión con el celular (como LG Connect Apps) y actívala."]
+      "steps": [
+        "Ligue a TV e deixe o celular no mesmo Wi-Fi.",
+        "Na primeira vez, aceite o pedido do Controley na tela da TV, usando o controle da TV.",
+        "Se a TV não aparecer, procure nas configurações de rede da TV a opção de conexão com celular (como LG Connect Apps) e ative.",
+        "Para ligar a TV pelo celular: nas TVs 2025 ou mais novas, ative Suporte > Configurações de IP Control > Wake on LAN. Nas anteriores, ative Mobile TV On. Se a TV usa cabo e Wi-Fi, o endereço de cada um é diferente."
+      ],
+      "steps_en": [
+        "Turn the TV on and keep the phone on the same Wi-Fi.",
+        "The first time, accept the Controley request on the TV screen with the TV remote.",
+        "If the TV does not show up, look in the TV network settings for the phone connection option (such as LG Connect Apps) and turn it on.",
+        "To turn the TV on from the phone: on 2025 or newer TVs, enable Support > IP Control Settings > Wake on LAN. On older ones, enable Mobile TV On. If the TV uses both cable and Wi-Fi, each has a different address."
+      ],
+      "steps_es": [
+        "Enciende la TV y deja el celular en el mismo Wi-Fi.",
+        "La primera vez, acepta la solicitud de Controley en la pantalla de la TV con el control de la TV.",
+        "Si la TV no aparece, busca en los ajustes de red de la TV la opción de conexión con el celular (como LG Connect Apps) y actívala.",
+        "Para encender la TV desde el celular: en las TV 2025 o más nuevas, activa Soporte > Ajustes de IP Control > Wake on LAN. En las anteriores, activa Mobile TV On. Si la TV usa cable y Wi-Fi, cada uno tiene una dirección distinta."
+      ]
     },
     {
-      "id": "roku", "name": "Roku", "status": "initial",
+      "id": "roku",
+      "name": "Roku",
+      "status": "initial",
       "systems": "Roku TV e players Roku (TCL, Philips, AOC, Semp e outras marcas com Roku)",
       "note": "Sem pareamento. Feito pelo protocolo oficial de controle da Roku; ainda sem teste em TV real.",
       "note_en": "No pairing. Built on Roku's official control protocol; not yet tested on a real TV.",
       "note_es": "Sin emparejamiento. Hecho con el protocolo oficial de control de Roku; aún sin prueba en una TV real.",
-      "steps": ["Ligue a TV e deixe o celular no mesmo Wi-Fi. Não há código para digitar.", "Se a TV não responder, abra Configurações > Sistema > Configurações avançadas > Controle por apps móveis e deixe o acesso à rede como Permissivo."],
-      "steps_en": ["Turn the TV on and keep the phone on the same Wi-Fi. There is no code to type.", "If the TV does not answer, open Settings > System > Advanced system settings > Control by mobile apps and set network access to Permissive."],
-      "steps_es": ["Enciende la TV y deja el celular en el mismo Wi-Fi. No hay código que escribir.", "Si la TV no responde, abre Ajustes > Sistema > Ajustes avanzados del sistema > Control por apps móviles y deja el acceso a la red en Permisivo."]
+      "steps": [
+        "Ligue a TV e deixe o celular no mesmo Wi-Fi. Não há código para digitar.",
+        "Se a TV não responder aos botões, abra Configurações > Sistema > Configurações avançadas > Controle por apps móveis e deixe o acesso à rede como Ativado. Nas Roku mais novas o padrão é Limitado, que recusa os comandos."
+      ],
+      "steps_en": [
+        "Turn the TV on and keep the phone on the same Wi-Fi. There is no code to type.",
+        "If the TV does not answer the buttons, open Settings > System > Advanced system settings > Control by mobile apps and set network access to Enabled. On newer Roku TVs the default is Limited, which refuses commands."
+      ],
+      "steps_es": [
+        "Enciende la TV y deja el celular en el mismo Wi-Fi. No hay código que escribir.",
+        "Si la TV no responde a los botones, abre Configuración > Sistema > Configuración avanzada del sistema > Control por apps móviles y deja el acceso a la red en Habilitado. En las Roku más nuevas el valor por defecto es Limitado, que rechaza los comandos."
+      ]
     },
     {
-      "id": "samsung", "name": "Samsung", "status": "initial",
+      "id": "samsung",
+      "name": "Samsung",
+      "status": "initial",
       "systems": "Smart TVs Samsung com Tizen (modelos de 2016 em diante)",
       "note": "Protocolo documentado pela comunidade; ainda sem teste em TV real.",
       "note_en": "Community-documented protocol; not yet tested on a real TV.",
       "note_es": "Protocolo documentado por la comunidad; aún sin prueba en una TV real.",
-      "steps": ["Ligue a TV e deixe o celular no mesmo Wi-Fi.", "Na primeira vez a TV mostra um aviso pedindo para permitir o Controley. Aceite com o controle da TV.", "Se o aviso não aparecer, veja nas configurações da TV o gerenciador de dispositivos externos e deixe a notificação de acesso ativada."],
-      "steps_en": ["Turn the TV on and keep the phone on the same Wi-Fi.", "The first time the TV shows a prompt asking to allow Controley. Accept it with the TV remote.", "If the prompt does not appear, check the TV's external device manager settings and turn access notifications on."],
-      "steps_es": ["Enciende la TV y deja el celular en el mismo Wi-Fi.", "La primera vez la TV muestra un aviso para permitir a Controley. Acéptalo con el control de la TV.", "Si el aviso no aparece, revisa en los ajustes de la TV el administrador de dispositivos externos y activa la notificación de acceso."]
+      "steps": [
+        "Ligue a TV e deixe o celular no mesmo Wi-Fi.",
+        "Na primeira vez a TV mostra um aviso pedindo para permitir o Controley. Aceite com o controle da TV.",
+        "Se o aviso não aparecer, veja nas configurações da TV o gerenciador de dispositivos externos e deixe a notificação de acesso ativada.",
+        "Se a TV pedir permissão toda vez que o app conecta, abra na TV o Gerenciador de conexão de dispositivos, depois Configurações de notificação de acesso, e escolha Somente na primeira vez.",
+        "Celular e TV precisam estar na mesma rede (mesma sub-rede). A Samsung bloqueia o controle vindo de outra rede, como o Wi-Fi de visitantes."
+      ],
+      "steps_en": [
+        "Turn the TV on and keep the phone on the same Wi-Fi.",
+        "The first time the TV shows a prompt asking to allow Controley. Accept it with the TV remote.",
+        "If the prompt does not appear, check the TV's external device manager settings and turn access notifications on.",
+        "If the TV asks for permission every time the app connects, open the TV's Device Connection Manager, then Access Notification Settings, and choose First Time Only.",
+        "The phone and the TV must be on the same network (same subnet). Samsung blocks control coming from another network, such as a guest Wi-Fi."
+      ],
+      "steps_es": [
+        "Enciende la TV y deja el celular en el mismo Wi-Fi.",
+        "La primera vez la TV muestra un aviso para permitir a Controley. Acéptalo con el control de la TV.",
+        "Si el aviso no aparece, revisa en los ajustes de la TV el administrador de dispositivos externos y activa la notificación de acceso.",
+        "Si la TV pide permiso cada vez que la app se conecta, abre en la TV el Administrador de conexión de dispositivos, luego Configuración de notificaciones de acceso y elige Solo la primera vez.",
+        "El celular y la TV deben estar en la misma red (misma subred). Samsung bloquea el control que viene de otra red, como el Wi-Fi de invitados."
+      ]
     },
     {
-      "id": "androidtv", "name": "Android TV e Google TV", "status": "initial",
+      "id": "androidtv",
+      "name": "Android TV e Google TV",
+      "status": "initial",
       "systems": "Android TV, Google TV, TV Box com Android TV e Chromecast com Google TV (Sony, TCL, Philips, Xiaomi, Hisense, AOC, Semp e outras)",
       "note": "Pareamento com um código que aparece na TV. Ainda sem teste em TV real.",
       "note_en": "Pairing with a code shown on the TV. Not yet tested on a real TV.",
       "note_es": "Emparejamiento con un código que aparece en la TV. Aún sin prueba en una TV real.",
-      "steps": ["Ligue a TV e deixe o celular no mesmo Wi-Fi.", "Na primeira vez a TV mostra um código de 6 letras ou números. Digite exatamente como aparece.", "Se o código errar, olhe a TV de novo: ele muda a cada tentativa."],
-      "steps_en": ["Turn the TV on and keep the phone on the same Wi-Fi.", "The first time the TV shows a 6-character code. Type it exactly as shown.", "If the code is wrong, look at the TV again: it changes on every attempt."],
-      "steps_es": ["Enciende la TV y deja el celular en el mismo Wi-Fi.", "La primera vez la TV muestra un código de 6 caracteres. Escríbelo exactamente como aparece.", "Si el código falla, mira la TV de nuevo: cambia en cada intento."]
+      "steps": [
+        "Ligue a TV e deixe o celular no mesmo Wi-Fi.",
+        "Na primeira vez a TV mostra um código de 6 letras ou números. Digite exatamente como aparece.",
+        "Se o código errar, olhe a TV de novo: ele muda a cada tentativa.",
+        "Se o pareamento falhar várias vezes, na TV abra Configurações > Apps > Mostrar apps do sistema > Android TV Remote Service, limpe o armazenamento e reinicie a TV."
+      ],
+      "steps_en": [
+        "Turn the TV on and keep the phone on the same Wi-Fi.",
+        "The first time the TV shows a 6-character code. Type it exactly as shown.",
+        "If the code is wrong, look at the TV again: it changes on every attempt.",
+        "If pairing fails several times, on the TV open Settings > Apps > Show system apps > Android TV Remote Service, clear its storage and restart the TV."
+      ],
+      "steps_es": [
+        "Enciende la TV y deja el celular en el mismo Wi-Fi.",
+        "La primera vez la TV muestra un código de 6 caracteres. Escríbelo exactamente como aparece.",
+        "Si el código falla, mira la TV de nuevo: cambia en cada intento.",
+        "Si el emparejamiento falla varias veces, en la TV abre Configuración > Apps > Mostrar apps del sistema > Android TV Remote Service, borra el almacenamiento y reinicia la TV."
+      ]
     },
     {
-      "id": "firetv", "name": "Fire TV", "status": "initial",
+      "id": "firetv",
+      "name": "Fire TV",
+      "status": "initial",
       "systems": "Fire TV Stick e Fire TV da Amazon",
       "note": "Usa o protocolo não oficial do app de controle da Amazon. Ainda sem teste em aparelho real.",
       "note_en": "Uses the unofficial protocol of Amazon's remote app. Not yet tested on a real device.",
       "note_es": "Usa el protocolo no oficial de la app de control de Amazon. Aún sin prueba en un aparato real.",
-      "steps": ["Ligue a Fire TV e deixe o celular no mesmo Wi-Fi.", "Na primeira vez a TV mostra um PIN de 4 números. Digite no Controley."],
-      "steps_en": ["Turn the Fire TV on and keep the phone on the same Wi-Fi.", "The first time the TV shows a 4-digit PIN. Type it in Controley."],
-      "steps_es": ["Enciende la Fire TV y deja el celular en el mismo Wi-Fi.", "La primera vez la TV muestra un PIN de 4 números. Escríbelo en Controley."]
+      "steps": [
+        "Ligue a Fire TV e deixe o celular no mesmo Wi-Fi.",
+        "Na primeira vez a TV mostra um PIN de 4 números. Digite no Controley."
+      ],
+      "steps_en": [
+        "Turn the Fire TV on and keep the phone on the same Wi-Fi.",
+        "The first time the TV shows a 4-digit PIN. Type it in Controley."
+      ],
+      "steps_es": [
+        "Enciende la Fire TV y deja el celular en el mismo Wi-Fi.",
+        "La primera vez la TV muestra un PIN de 4 números. Escríbelo en Controley."
+      ]
     },
     {
-      "id": "sony", "name": "Sony Bravia", "status": "initial",
+      "id": "sony",
+      "name": "Sony Bravia",
+      "status": "initial",
       "systems": "Sony Bravia com Controle IP",
       "note": "Usa a interface oficial de Controle IP da Sony. Ainda sem teste em TV real. Bravia com Google TV também funcionam como Android TV.",
       "note_en": "Uses Sony's official IP Control interface. Not yet tested on a real TV. Bravia with Google TV also work as Android TV.",
       "note_es": "Usa la interfaz oficial de Control IP de Sony. Aún sin prueba en una TV real. Las Bravia con Google TV también funcionan como Android TV.",
-      "steps": ["Na TV, abra Configurações > Rede > Configuração de rede doméstica > Controle IP.", "Ative o Controle IP, escolha autenticação com chave pré-compartilhada (PSK) e defina uma chave.", "No Controley, digite essa chave quando ele pedir. Ela fica salva."],
-      "steps_en": ["On the TV open Settings > Network > Home network setup > IP Control.", "Turn IP Control on, choose pre-shared key (PSK) authentication and set a key.", "Type that key in Controley when it asks. It is saved."],
-      "steps_es": ["En la TV abre Ajustes > Red > Configuración de red doméstica > Control IP.", "Activa el Control IP, elige la autenticación con clave precompartida (PSK) y define una clave.", "Escribe esa clave en Controley cuando la pida. Queda guardada."]
+      "steps": [
+        "Na TV, abra Configurações > Rede > Configuração de rede doméstica > Controle IP.",
+        "Ative o Controle IP, escolha autenticação com chave pré-compartilhada (PSK) e defina uma chave.",
+        "No Controley, digite essa chave quando ele pedir. Ela fica salva.",
+        "Para o app ligar a TV, ative também Configurações > Rede > Configuração de rede doméstica > Início remoto. Se a TV passar a ligar sozinha, desative essa opção. Se não achar as opções de rede, ative o modo de configurações Pro."
+      ],
+      "steps_en": [
+        "On the TV open Settings > Network > Home network setup > IP Control.",
+        "Turn IP Control on, choose pre-shared key (PSK) authentication and set a key.",
+        "Type that key in Controley when it asks. It is saved.",
+        "For the app to turn the TV on, also enable Settings > Network > Home network setup > Remote Start. If the TV starts turning on by itself, turn that option off. If you cannot find the network options, turn on Pro settings mode."
+      ],
+      "steps_es": [
+        "En la TV abre Ajustes > Red > Configuración de red doméstica > Control IP.",
+        "Activa el Control IP, elige la autenticación con clave precompartida (PSK) y define una clave.",
+        "Escribe esa clave en Controley cuando la pida. Queda guardada.",
+        "Para que la app encienda la TV, activa también Ajustes > Red > Configuración de red doméstica > Inicio remoto. Si la TV empieza a encenderse sola, desactiva esa opción. Si no encuentras las opciones de red, activa el modo de ajustes Pro."
+      ]
     },
     {
-      "id": "panasonic", "name": "Panasonic Viera", "status": "initial",
+      "id": "panasonic",
+      "name": "Panasonic Viera",
+      "status": "initial",
       "systems": "Panasonic Viera: modelos antigos sem senha e recentes (cerca de 2019 em diante) com PIN",
       "note": "Protocolo documentado pela comunidade, com a criptografia conferida contra uma implementação de referência. Ainda sem teste em TV real.",
       "note_en": "Community-documented protocol, with the encryption checked against a reference implementation. Not yet tested on a real TV.",
       "note_es": "Protocolo documentado por la comunidad, con el cifrado comprobado contra una implementación de referencia. Aún sin prueba en una TV real.",
-      "steps": ["Nas configurações de rede da TV, ative o app de controle remoto (TV Remote) para que ela aceite comandos pela rede.", "Nos modelos recentes a TV mostra um PIN de 4 números na primeira vez. Digite no Controley."],
-      "steps_en": ["In the TV network settings, turn on the remote app option (TV Remote) so it accepts commands over the network.", "On recent models the TV shows a 4-digit PIN the first time. Type it in Controley."],
-      "steps_es": ["En los ajustes de red de la TV, activa la app de control remoto (TV Remote) para que acepte comandos por la red.", "En los modelos recientes la TV muestra un PIN de 4 números la primera vez. Escríbelo en Controley."]
+      "steps": [
+        "Nas configurações de rede da TV, ative o app de controle remoto (TV Remote) para que ela aceite comandos pela rede.",
+        "Nos modelos recentes a TV mostra um PIN de 4 números na primeira vez. Digite no Controley.",
+        "Celular e TV precisam estar na mesma rede (mesma sub-rede). A TV recusa comandos vindos de outra rede, como o Wi-Fi de visitantes. Peça o PIN só com a TV ligada, fora do modo de espera."
+      ],
+      "steps_en": [
+        "In the TV network settings, turn on the remote app option (TV Remote) so it accepts commands over the network.",
+        "On recent models the TV shows a 4-digit PIN the first time. Type it in Controley.",
+        "The phone and the TV must be on the same network (same subnet). The TV refuses commands from another network, such as a guest Wi-Fi. Ask for the PIN only with the TV on, not in standby."
+      ],
+      "steps_es": [
+        "En los ajustes de red de la TV, activa la app de control remoto (TV Remote) para que acepte comandos por la red.",
+        "En los modelos recientes la TV muestra un PIN de 4 números la primera vez. Escríbelo en Controley.",
+        "El celular y la TV deben estar en la misma red (misma subred). La TV rechaza comandos de otra red, como el Wi-Fi de invitados. Pide el PIN solo con la TV encendida, no en espera."
+      ]
     },
     {
-      "id": "hisense", "name": "Hisense", "status": "unsupported",
+      "id": "hisense",
+      "name": "Hisense",
+      "status": "unsupported",
       "systems": "Hisense com sistema VIDAA",
       "note": "Hisense com Google TV já funcionam em Android TV. Com VIDAA ainda não: a conexão exige um certificado que só existe dentro do app oficial da Hisense.",
       "note_en": "Hisense with Google TV already work under Android TV. With VIDAA not yet: the connection requires a certificate that only exists inside Hisense's official app.",
       "note_es": "Las Hisense con Google TV ya funcionan en Android TV. Con VIDAA aún no: la conexión exige un certificado que solo existe dentro de la app oficial de Hisense.",
-      "steps": [], "steps_en": [], "steps_es": []
+      "steps": [],
+      "steps_en": [],
+      "steps_es": []
     },
     {
-      "id": "philips", "name": "Philips", "status": "unsupported",
-      "systems": "Philips com sistema próprio (anteriores ao Android TV)",
-      "note": "Philips com Android TV ou Google TV já funcionam em Android TV. Os modelos mais antigos, com sistema próprio, ainda não.",
-      "note_en": "Philips with Android TV or Google TV already work under Android TV. Older models with their own system do not yet.",
-      "note_es": "Las Philips con Android TV o Google TV ya funcionan en Android TV. Los modelos más antiguos, con sistema propio, aún no.",
-      "steps": [], "steps_en": [], "steps_es": []
+      "id": "philips",
+      "name": "Philips",
+      "status": "initial",
+      "systems": "Philips com sistema próprio (JointSpace), modelos antigos sem senha e recentes com PIN. Philips com Android TV ou Google TV: use também Android TV.",
+      "note": "Protocolo documentado pela comunidade, com a assinatura do PIN e o login conferidos contra uma implementação de referência. Ainda sem teste em TV real.",
+      "note_en": "Community-documented protocol, with the PIN signature and login checked against a reference implementation. Not yet tested on a real TV.",
+      "note_es": "Protocolo documentado por la comunidad, con la firma del PIN y el inicio de sesión comprobados contra una implementación de referencia. Aún sin prueba en una TV real.",
+      "steps": [
+        "Ligue a TV e deixe o celular no mesmo Wi-Fi.",
+        "Nos modelos recentes a TV mostra um PIN de 4 números na primeira vez. Digite no Controley.",
+        "Se a TV tem Android TV ou Google TV e não responde assim, escolha Android TV."
+      ],
+      "steps_en": [
+        "Turn the TV on and keep the phone on the same Wi-Fi.",
+        "On recent models the TV shows a 4-digit PIN the first time. Type it in Controley.",
+        "If the TV runs Android TV or Google TV and does not answer this way, choose Android TV."
+      ],
+      "steps_es": [
+        "Enciende la TV y deja el celular en la misma Wi-Fi.",
+        "En los modelos recientes la TV muestra un PIN de 4 números la primera vez. Escríbelo en Controley.",
+        "Si la TV tiene Android TV o Google TV y no responde así, elige Android TV."
+      ],
+      "systems_en": "Philips with its own system (JointSpace), older models without a password and recent ones with a PIN. Philips with Android TV or Google TV: Android TV works too.",
+      "systems_es": "Philips con sistema propio (JointSpace), modelos antiguos sin contraseña y recientes con PIN. Philips con Android TV o Google TV: Android TV también funciona."
+    },
+    {
+      "id": "kodi",
+      "name": "Kodi",
+      "status": "initial",
+      "systems": "Kodi em caixinha de TV, mini PC ou Android TV (versão 17 em diante, com o controle web ligado)",
+      "systems_en": "Kodi on a TV box, mini PC or Android TV (version 17 and later, with web control turned on)",
+      "systems_es": "Kodi en una caja de TV, mini PC o Android TV (versión 17 en adelante, con el control web activado)",
+      "note": "API aberta e documentada (JSON-RPC). Ainda sem teste em Kodi real.",
+      "note_en": "Open, documented API (JSON-RPC). Not yet tested on a real Kodi.",
+      "note_es": "API abierta y documentada (JSON-RPC). Aún sin prueba en un Kodi real.",
+      "steps": [
+        "No Kodi, abra Configurações > Serviços > Controle e ative Permitir controle remoto por HTTP (porta 8080).",
+        "Se você definiu uma senha, o Controley pede ela na primeira vez. O usuário padrão é kodi.",
+        "Deixe o celular no mesmo Wi-Fi e toque em Buscar aparelhos."
+      ],
+      "steps_en": [
+        "In Kodi, open Settings > Services > Control and turn on Allow remote control via HTTP (port 8080).",
+        "If you set a password, Controley asks for it the first time. The default user is kodi.",
+        "Keep the phone on the same Wi-Fi and tap Find devices."
+      ],
+      "steps_es": [
+        "En Kodi, abre Ajustes > Servicios > Control y activa Permitir control remoto por HTTP (puerto 8080).",
+        "Si definiste una contraseña, Controley la pide la primera vez. El usuario por defecto es kodi.",
+        "Deja el celular en la misma Wi-Fi y toca Buscar dispositivos."
+      ]
+    },
+    {
+      "id": "vestel",
+      "name": "Vestel (Panasonic, Toshiba, Telefunken e outras)",
+      "status": "initial",
+      "systems": "TVs feitas pela Vestel e vendidas com outras marcas, como alguns Panasonic (série GX), Toshiba, Telefunken e Haier",
+      "systems_en": "TVs made by Vestel and sold under other brands, such as some Panasonic (GX series), Toshiba, Telefunken and Haier",
+      "systems_es": "TVs fabricadas por Vestel y vendidas con otras marcas, como algunos Panasonic (serie GX), Toshiba, Telefunken y Haier",
+      "note": "Protocolo SmartCenter documentado pela comunidade. Só teclas e canais, sem apps nem texto. Ainda sem teste em TV real.",
+      "note_en": "SmartCenter protocol documented by the community. Keys and channels only, no apps or text. Not yet tested on a real TV.",
+      "note_es": "Protocolo SmartCenter documentado por la comunidad. Solo teclas y canales, sin apps ni texto. Aún sin prueba en una TV real.",
+      "steps": [
+        "Ligue a TV e deixe o celular no mesmo Wi-Fi. Não há código para digitar.",
+        "Toque em Buscar aparelhos. Se ela não aparecer, toque em Conectar pelo IP e digite o endereço dela: o Controley reconhece esse tipo de TV sozinho.",
+        "Para ligar a TV pelo app, ela precisa estar no modo de espera com a ativação por rede ligada, se o modelo tiver essa opção."
+      ],
+      "steps_en": [
+        "Turn the TV on and keep the phone on the same Wi-Fi. There is no code to type.",
+        "Tap Find devices. If it does not show up, tap Connect by IP and type its address: Controley recognises this kind of TV by itself.",
+        "To turn the TV on from the app, it must be in standby with network wake enabled, if the model has that option."
+      ],
+      "steps_es": [
+        "Enciende la TV y deja el celular en el mismo Wi-Fi. No hay código que escribir.",
+        "Toca Buscar dispositivos. Si no aparece, toca Conectar por IP y escribe su dirección: Controley reconoce este tipo de TV por sí solo.",
+        "Para encender la TV desde la app, debe estar en espera con el encendido por red activado, si el modelo tiene esa opción."
+      ]
     }
   ]
 }
