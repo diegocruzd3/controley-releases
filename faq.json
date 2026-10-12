@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "rev": 17,
+ "rev": 18,
  "updated": "2026-10-12",
  "items": [
   {
@@ -30,11 +30,11 @@
    "section": "connect",
    "keywords": "buscar encontrar lista wifi rede convidados nao aparece",
    "q": "O aparelho não aparece na busca. O que faço?",
-   "a": "Confira se o aparelho está ligado (não só em espera) e se o celular está no mesmo Wi-Fi, sem rede de visitantes nem dados móveis. Em algumas marcas é preciso ativar o controle pelo celular nas configurações do aparelho (veja a sua marca em aparelhos compatíveis, em Ajustes). Se continuar, use Conectar pelo IP. Se nada funcionar, toque em Relatar e me diga a marca e o modelo do aparelho.",
+   "a": "Confira se o aparelho está ligado (não só em espera) e se o celular está no mesmo Wi-Fi, sem rede de visitantes nem dados móveis. Em algumas marcas é preciso ativar o controle pelo celular nas configurações do aparelho (veja a sua marca em aparelhos compatíveis, em Ajustes). Se continuar, toque em Usar IP e digite o IP do aparelho. Se nada funcionar, toque em Relatar e me diga a marca e o modelo do aparelho.",
    "q_en": "My device does not show up in the search. What now?",
-   "a_en": "Check that the device is on (not just standby) and that your phone is on the same Wi-Fi, not a guest network or mobile data. Some brands need phone control turned on in the device settings (see your brand under Compatible devices, in Settings). If it still fails, use Connect by IP. If nothing works, tap Report and tell me the device brand and model.",
+   "a_en": "Check that the device is on (not just standby) and that your phone is on the same Wi-Fi, not a guest network or mobile data. Some brands need phone control turned on in the device settings (see your brand under Compatible devices, in Settings). If it still fails, tap Use IP and type the device's IP. If nothing works, tap Report and tell me the device brand and model.",
    "q_es": "Mi dispositivo no aparece en la búsqueda. ¿Qué hago?",
-   "a_es": "Comprueba que el dispositivo esté encendido (no solo en espera) y que el celular esté en el mismo Wi-Fi, sin red de invitados ni datos móviles. Algunas marcas necesitan activar el control por celular en los ajustes del dispositivo (mira tu marca en dispositivos compatibles, en Ajustes). Si sigue igual, usa Conectar por IP. Si nada funciona, toca Reportar y dime la marca y el modelo del dispositivo."
+   "a_es": "Comprueba que el dispositivo esté encendido (no solo en espera) y que el celular esté en el mismo Wi-Fi, sin red de invitados ni datos móviles. Algunas marcas necesitan activar el control por celular en los ajustes del dispositivo (mira tu marca en dispositivos compatibles, en Ajustes). Si sigue igual, toca Usar IP y escribe la IP del dispositivo. Si nada funciona, toca Reportar y dime la marca y el modelo del dispositivo."
   },
   {
    "id": "codigo-pin",
@@ -52,11 +52,11 @@
    "section": "connect",
    "keywords": "ip endereco rede numero descobrir",
    "q": "Como descubro o IP do meu aparelho?",
-   "a": "Nas configurações de rede do aparelho, em Wi-Fi ou Rede, procure Informações de rede ou Status da conexão: o IP aparece como quatro números separados por ponto, como 192.168.1.42. Também dá para ver na lista de aparelhos conectados do seu roteador. Digite em Conectar pelo IP, sem http:// nem porta.",
+   "a": "Nas configurações de rede do aparelho, em Wi-Fi ou Rede, procure Informações de rede ou Status da conexão: o IP aparece como quatro números separados por ponto, como 192.168.1.42. Também dá para ver na lista de aparelhos conectados do seu roteador. Toque em Usar IP e digite o número, sem http:// nem porta.",
    "q_en": "How do I find my device's IP address?",
-   "a_en": "In the device network settings, under Wi-Fi or Network, look for Network information or Connection status: the IP shows as four numbers separated by dots, like 192.168.1.42. You can also see it in your router's list of connected devices. Type it in Connect by IP, without http:// or a port.",
+   "a_en": "In the device network settings, under Wi-Fi or Network, look for Network information or Connection status: the IP shows as four numbers separated by dots, like 192.168.1.42. You can also see it in your router's list of connected devices. Tap Use IP and type it, without http:// or a port.",
    "q_es": "¿Cómo encuentro la IP de mi dispositivo?",
-   "a_es": "En los ajustes de red del dispositivo, en Wi-Fi o Red, busca Información de red o Estado de la conexión: la IP aparece como cuatro números separados por puntos, como 192.168.1.42. También puedes verla en la lista de dispositivos conectados de tu router. Escríbela en Conectar por IP, sin http:// ni puerto."
+   "a_es": "En los ajustes de red del dispositivo, en Wi-Fi o Red, busca Información de red o Estado de la conexión: la IP aparece como cuatro números separados por puntos, como 192.168.1.42. También puedes verla en la lista de dispositivos conectados de tu router. Toca Usar IP y escríbela, sin http:// ni puerto."
   },
   {
    "id": "conexao-cai",
@@ -140,11 +140,11 @@
    "section": "connect",
    "keywords": "testar conexao diagnostico nao conecta wifi rede problema",
    "q": "O aparelho não conecta. Como descubro o motivo?",
-   "a": "Toque na faixa verde de conexão (ou em Ajustes, Ajuda e suporte) e escolha Testar conexão. Em poucos segundos o Comandoo confere o Wi-Fi, o aparelho salvo, se o celular e o aparelho estão na mesma rede, se o aparelho responde, o pareamento e a velocidade, e diz o que fazer. Se não resolver, toque em Enviar com relato para mandar o resultado junto.",
+   "a": "Toque na faixa verde de conexão (ou na aba Mais › Ajuda e suporte) e escolha Testar conexão. Em poucos segundos o Comandoo confere o Wi-Fi, o aparelho salvo, se o celular e o aparelho estão na mesma rede, se o aparelho responde, o pareamento e a velocidade, e diz o que fazer. Se não resolver, toque em Enviar com relato para mandar o resultado junto.",
    "q_en": "The device will not connect. How do I find out why?",
-   "a_en": "Tap the green connection bar (or Settings, Help and support) and choose Test connection. In a few seconds Comandoo checks the Wi-Fi, the saved device, whether the phone and the device share a network, whether the device answers, the pairing and the speed, and tells you what to do. If it does not help, tap Send with a report to include the result.",
+   "a_en": "Tap the green connection bar (or the More tab › Help and support) and choose Test connection. In a few seconds Comandoo checks the Wi-Fi, the saved device, whether the phone and the device share a network, whether the device answers, the pairing and the speed, and tells you what to do. If it does not help, tap Send with a report to include the result.",
    "q_es": "El dispositivo no conecta. ¿Cómo descubro el motivo?",
-   "a_es": "Toca la barra verde de conexión (o Ajustes, Ayuda y soporte) y elige Probar conexión. En pocos segundos Comandoo revisa el Wi-Fi, el dispositivo guardado, si el celular y el dispositivo están en la misma red, si el dispositivo responde, el emparejamiento y la velocidad, y dice qué hacer. Si no se resuelve, toca Enviar con un informe para mandar el resultado."
+   "a_es": "Toca la barra verde de conexión (o la pestaña Más › Ayuda y soporte) y elige Probar conexión. En pocos segundos Comandoo revisa el Wi-Fi, el dispositivo guardado, si el celular y el dispositivo están en la misma red, si el dispositivo responde, el emparejamiento y la velocidad, y dice qué hacer. Si no se resuelve, toca Enviar con un informe para mandar el resultado."
   },
   {
    "id": "cenas",
@@ -263,11 +263,11 @@
    "section": "connect",
    "keywords": "vestel panasonic toshiba telefunken haier smartcenter porta 56789 nao responde 55000",
    "q": "Minha Panasonic (ou Toshiba, Telefunken) não conecta como Panasonic. O que fazer?",
-   "a": "Alguns modelos dessas marcas são feitos pela Vestel e não usam o controle da Panasonic (porta 55000). Eles aceitam comandos por outra porta (56789), sem PIN. Toque em Buscar aparelhos, ou digite o IP da TV em Conectar pelo IP: o app reconhece sozinho. Esta compatibilidade é inicial, ainda sem teste em TV real.",
+   "a": "Alguns modelos dessas marcas são feitos pela Vestel e não usam o controle da Panasonic (porta 55000). Eles aceitam comandos por outra porta (56789), sem PIN. Toque em Buscar aparelhos, ou toque em Usar IP e digite o IP da TV: o app reconhece sozinho. Esta compatibilidade é inicial, ainda sem teste em TV real.",
    "q_en": "My Panasonic (or Toshiba, Telefunken) does not connect as a Panasonic. What can I do?",
-   "a_en": "Some models from these brands are made by Vestel and do not use Panasonic's remote control (port 55000). They accept commands on another port (56789), with no PIN. Tap Find devices, or type the TV's IP in Connect by IP: the app recognises it by itself. This compatibility is initial, not yet tested on a real TV.",
+   "a_en": "Some models from these brands are made by Vestel and do not use Panasonic's remote control (port 55000). They accept commands on another port (56789), with no PIN. Tap Find devices, or tap Use IP and type the TV's IP: the app recognises it by itself. This compatibility is initial, not yet tested on a real TV.",
    "q_es": "Mi Panasonic (o Toshiba, Telefunken) no se conecta como Panasonic. ¿Qué hago?",
-   "a_es": "Algunos modelos de estas marcas son fabricados por Vestel y no usan el control de Panasonic (puerto 55000). Aceptan comandos por otro puerto (56789), sin PIN. Toca Buscar dispositivos, o escribe la IP de la TV en Conectar por IP: la app la reconoce sola. Esta compatibilidad es inicial, aún sin prueba en una TV real.",
+   "a_es": "Algunos modelos de estas marcas son fabricados por Vestel y no usan el control de Panasonic (puerto 55000). Aceptan comandos por otro puerto (56789), sin PIN. Toca Buscar dispositivos, o toca Usar IP y escribe la IP de la TV: la app la reconoce sola. Esta compatibilidad es inicial, aún sin prueba en una TV real.",
    "brands": [
     "vestel",
     "panasonic"
@@ -306,9 +306,9 @@
    "q_es": "¿Cómo actualizo la aplicación?",
    "a_es": "Cuando hay una versión nueva, aparece un aviso en la pestaña Control y una notificación. Toca Actualizar y confirma la instalación de Android. Para comprobar ahora, usa Buscar actualización en Ajustes. Si Android lo pide, permite instalar apps desde Comandoo.",
    "play": {
-    "a": "O Comandoo é atualizado pela Google Play. Para checar agora, toque em Procurar atualização em Ajustes: o app abre a página dele na Play, onde aparece o botão Atualizar quando há versão nova. Para receber as atualizações sozinho, deixe ligada a atualização automática de apps na Play.",
-    "a_en": "Comandoo is updated through Google Play. To check now, tap Check for updates in Settings: the app opens its Play page, where an Update button appears when there is a new version. To get updates by themselves, keep automatic app updates turned on in Play.",
-    "a_es": "Comandoo se actualiza por Google Play. Para comprobar ahora, toca Buscar actualización en Ajustes: la app abre su página en Play, donde aparece el botón Actualizar cuando hay una versión nueva. Para recibir las actualizaciones solas, deja activadas las actualizaciones automáticas de apps en Play."
+    "a": "O Comandoo é atualizado pela Google Play. Para checar agora, abra a página do Comandoo na Play: o botão Atualizar aparece lá quando há versão nova. Para receber as atualizações sozinho, deixe ligada a atualização automática de apps na Play.",
+    "a_en": "Comandoo is updated through Google Play. To check now, open the Comandoo page in Play: an Update button appears there when there is a new version. To get updates by themselves, keep automatic app updates turned on in Play.",
+    "a_es": "Comandoo se actualiza por Google Play. Para comprobar ahora, abre la página de Comandoo en Play: el botón Actualizar aparece allí cuando hay una versión nueva. Para recibir las actualizaciones solas, deja activadas las actualizaciones automáticas de apps en Play."
    }
   },
   {
@@ -359,11 +359,11 @@
    "section": "privacy",
    "keywords": "relatar problema sugestao modelo foto etiqueta resposta ajuda",
    "q": "Como relato um problema ou peço um aparelho novo?",
-   "a": "Em Ajustes, toque em Relatar um problema (ou no botão Relatar das telas de ajuda). Conte o que aconteceu, escolha a marca e escreva o modelo do aparelho. Se não achar o modelo, anexe uma foto do aparelho ou da etiqueta atrás dele que eu identifico. A resposta chega no próprio app e por notificação, e depois peço que você teste de novo.",
+   "a": "Na aba Mais › Ajuda e suporte, toque em Relatar um problema (ou no botão Relatar das telas de ajuda). Conte o que aconteceu, escolha a marca e escreva o modelo do aparelho. Se não achar o modelo, anexe uma foto do aparelho ou da etiqueta atrás dele que eu identifico. A resposta chega no próprio app e por notificação, e depois peço que você teste de novo.",
    "q_en": "How do I report a problem or ask for a new device?",
-   "a_en": "In Settings, tap Report a problem (or the Report button on help screens). Tell what happened, choose the brand and write the device model. If you cannot find the model, attach a photo of the device or of the label on its back and I will identify it. The answer arrives in the app and as a notification, and then I ask you to test again.",
+   "a_en": "In the More tab › Help and support, tap Report a problem (or the Report button on help screens). Tell what happened, choose the brand and write the device model. If you cannot find the model, attach a photo of the device or of the label on its back and I will identify it. The answer arrives in the app and as a notification, and then I ask you to test again.",
    "q_es": "¿Cómo reporto un problema o pido un dispositivo nuevo?",
-   "a_es": "En Ajustes, toca Reportar un problema (o el botón Reportar de las pantallas de ayuda). Cuenta qué pasó, elige la marca y escribe el modelo del dispositivo. Si no encuentras el modelo, adjunta una foto del dispositivo o de la etiqueta de atrás y yo lo identifico. La respuesta llega en la app y como notificación, y luego te pido que pruebes de nuevo."
+   "a_es": "En la pestaña Más › Ayuda y soporte, toca Reportar un problema (o el botón Reportar de las pantallas de ayuda). Cuenta qué pasó, elige la marca y escribe el modelo del dispositivo. Si no encuentras el modelo, adjunta una foto del dispositivo o de la etiqueta de atrás y yo lo identifico. La respuesta llega en la app y como notificación, y luego te pido que pruebes de nuevo."
   },
   {
    "id": "marca-fora",
