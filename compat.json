@@ -255,17 +255,17 @@
       "note_es": "Protocolo SmartCenter documentado por la comunidad. Solo teclas y canales, sin apps ni texto. Aún sin prueba en una TV real.",
       "steps": [
         "Ligue a TV e deixe o celular no mesmo Wi-Fi. Não há código para digitar.",
-        "Toque em Buscar aparelhos. Se ela não aparecer, toque em Conectar pelo IP e digite o endereço dela: o Comandoo reconhece esse tipo de TV sozinho.",
+        "Toque em Buscar aparelhos. Se ela não aparecer, toque em Usar IP e digite o endereço dela: o Comandoo reconhece esse tipo de TV sozinho.",
         "Para ligar a TV pelo app, ela precisa estar no modo de espera com a ativação por rede ligada, se o modelo tiver essa opção."
       ],
       "steps_en": [
         "Turn the TV on and keep the phone on the same Wi-Fi. There is no code to type.",
-        "Tap Find devices. If it does not show up, tap Connect by IP and type its address: Comandoo recognises this kind of TV by itself.",
+        "Tap Find devices. If it does not show up, tap Use IP and type its address: Comandoo recognises this kind of TV by itself.",
         "To turn the TV on from the app, it must be in standby with network wake enabled, if the model has that option."
       ],
       "steps_es": [
         "Enciende la TV y deja el celular en el mismo Wi-Fi. No hay código que escribir.",
-        "Toca Buscar dispositivos. Si no aparece, toca Conectar por IP y escribe su dirección: Comandoo reconoce este tipo de TV por sí solo.",
+        "Toca Buscar dispositivos. Si no aparece, toca Usar IP y escribe su dirección: Comandoo reconoce este tipo de TV por sí solo.",
         "Para encender la TV desde la app, debe estar en espera con el encendido por red activado, si el modelo tiene esa opción."
       ]
     }
